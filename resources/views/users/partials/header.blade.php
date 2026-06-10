@@ -9,7 +9,7 @@
                                 <ul class="m-0 p-0 list-unstyled">
                                     <li class="pb-0 pt-4">
                                         <a href="/ve-chung-toi/" class="d-flex text-uppercase">
-                                            <div class="name me-0">Giới thiệu Mimosa Wedding</div>
+                                            <div class="name me-0">Giới thiệu Sorabridal</div>
                                         </a>
                                     </li>
                                     <li class="pb-0 pt-4">
@@ -89,7 +89,7 @@
             </div>
             <div class="center">
                 <a href="/">
-               <img class="lazyload logo" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/image-2.png" alt="">
+               <img class="lazyload logo" data-src="{{ asset('assets/mimosa/images/logo.png') }}" alt="">
                </a>
             </div>
             <div class="right">
@@ -241,7 +241,7 @@
                                     <ul class="m-0 p-0 list-unstyled">
                                         <li>
                                             <a href="/ve-chung-toi" class="d-flex">
-                                                <div class="name">Giới thiệu Mimosa Wedding</div>
+                                                <div class="name">Giới thiệu Sorabridal</div>
                                             </a>
                                         </li>
                                         <li>
@@ -418,7 +418,7 @@
                     <a href="/cali-bridal-brand">Thương hiệu Cali Bridal</a>
                 </li>
                 <!-- <li>
-                  <a href="https://gowedding.com.vn/">Thiệp cưới Mimosa</a>
+                  <a href="https://gowedding.com.vn/">Thiệp cưới Sorabridal</a>
                   
                   </li> -->
                 <li class="haschild">

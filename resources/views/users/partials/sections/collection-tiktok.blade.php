@@ -9,16 +9,16 @@
                         <div class="d-flex flex-wrap gap-4 justify-content-center">
                             <div class="item_tiktok">
                                 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mimosa_wedding6133/video/7434479325249899783" data-video-id="7434479325249899783" style="max-width: 605px;min-width: 325px;">
-                                    <section> <a target="_blank" title="@mimosa_wedding6133" href="https://www.tiktok.com/@mimosa_wedding6133?refer=embed">@mimosa_wedding6133</a> Cặp đôi Chu Tiểu Han đã chụp gói nào tại Mimosa Wedding 🤔<a title="mimosawedding"
+                                    <section> <a target="_blank" title="@mimosa_wedding6133" href="https://www.tiktok.com/@mimosa_wedding6133?refer=embed">@mimosa_wedding6133</a> Cặp đôi Chu Tiểu Han đã chụp gói nào tại Sorabridal 🤔<a title="mimosawedding"
                                             target="_blank" href="https://www.tiktok.com/tag/mimosawedding?refer=embed">#mimosawedding</a> <a title="chutieuhan" target="_blank" href="https://www.tiktok.com/tag/chutieuhan?refer=embed">#chutieuhan</a> <a target="_blank"
-                                            title="♬ nhạc nền  - Mimosa Wedding" href="https://www.tiktok.com/music/nhạc-nền-Mimosa-Wedding-7434479369458158352?refer=embed">♬ nhạc nền  - Mimosa Wedding</a> </section>
+                                            title="♬ nhạc nền  - Sorabridal" href="https://www.tiktok.com/music/nhạc-nền-Mimosa-Wedding-7434479369458158352?refer=embed">♬ nhạc nền  - Sorabridal</a> </section>
                                 </blockquote>
                             </div>
                             <div class="item_tiktok">
                                 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mimosa_wedding6133/video/7437349816285400338" data-video-id="7437349816285400338" style="max-width: 605px;min-width: 325px;">
                                     <section> <a target="_blank" title="@mimosa_wedding6133" href="https://www.tiktok.com/@mimosa_wedding6133?refer=embed">@mimosa_wedding6133</a> Gói chụp ảnh cưới siêu hot của nhà Mimosa có gì 🤔 <a title="mimosawedding" target="_blank"
                                             href="https://www.tiktok.com/tag/mimosawedding?refer=embed">#mimosawedding</a> <a title="chupanhcuoi" target="_blank" href="https://www.tiktok.com/tag/chupanhcuoi?refer=embed">#chupanhcuoi</a> <a target="_blank"
-                                            title="♬ nhạc nền  - Mimosa Wedding" href="https://www.tiktok.com/music/nhạc-nền-Mimosa-Wedding-7437350364963162897?refer=embed">♬ nhạc nền  - Mimosa Wedding</a> </section>
+                                            title="♬ nhạc nền  - Sorabridal" href="https://www.tiktok.com/music/nhạc-nền-Mimosa-Wedding-7437350364963162897?refer=embed">♬ nhạc nền  - Sorabridal</a> </section>
                                 </blockquote>
                             </div>
                             <div class="item_tiktok">
@@ -26,7 +26,7 @@
                                     <section> <a target="_blank" title="@mimosa_wedding6133" href="https://www.tiktok.com/@mimosa_wedding6133?refer=embed">@mimosa_wedding6133</a> Bên trong bộ ảnh cưới của anh Khương liều - diễn viên Duy Hưng có gì 🤔<a title="mimosawedding"
                                             target="_blank" href="https://www.tiktok.com/tag/mimosawedding?refer=embed">#mimosawedding</a> <a title="chupanhcuoi" target="_blank" href="https://www.tiktok.com/tag/chupanhcuoi?refer=embed">#chupanhcuoi</a>
                                         <a
-                                            title="khuonglieu" target="_blank" href="https://www.tiktok.com/tag/khuonglieu?refer=embed">#khuonglieu</a> <a title="dienvienduyhung" target="_blank" href="https://www.tiktok.com/tag/dienvienduyhung?refer=embed">#dienvienduyhung</a> <a target="_blank" title="♬ nhạc nền  - Mimosa Wedding" href="https://www.tiktok.com/music/nhạc-nền-Mimosa-Wedding-7440773687593011969?refer=embed">♬ nhạc nền  - Mimosa Wedding</a>                                            </section>
+                                            title="khuonglieu" target="_blank" href="https://www.tiktok.com/tag/khuonglieu?refer=embed">#khuonglieu</a> <a title="dienvienduyhung" target="_blank" href="https://www.tiktok.com/tag/dienvienduyhung?refer=embed">#dienvienduyhung</a> <a target="_blank" title="♬ nhạc nền  - Sorabridal" href="https://www.tiktok.com/music/nhạc-nền-Mimosa-Wedding-7440773687593011969?refer=embed">♬ nhạc nền  - Sorabridal</a>                                            </section>
                                 </blockquote>
                             </div>
                         </div>

@@ -4,7 +4,7 @@
             <div class="col-md-8 segContent">
                         <img class="pattern lazyload" data-src="/wp-content/uploads/2023/05/Group-1.png" alt="">
                         <div class="sub_title aos-init aos-animate" data-aos="fade-right">Váy cưới đẹp</div>
-                        <div class="title aos-init aos-animate" data-aos="fade-right">Mimosa Wedding</div>
+                        <div class="title aos-init aos-animate" data-aos="fade-right">Sorabridal</div>
             </div>
             <div class="col-md-auto text-md-end">
                 <a href="/vay-cuoi" data-aos="fade-left" class="btn_primary">XEM TẤT CẢ</a>

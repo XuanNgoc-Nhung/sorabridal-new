@@ -24,11 +24,12 @@
   }
 }
 :root {
-  --color-yellow: #e1a146;
+  --color-yellow: #e3578f;
   --color-dark: #242424;
-  --bg-theme: #f5f0e9;
+  --bg-theme: #fdf2f6;
   --font-sub: "Housttely";
   --font-body: "Nunito", sans-serif;
+  --color-pink: #fcb2cf;
 }
 
 body {
@@ -3095,7 +3096,7 @@ form.sent .wpcf7-response-output {
   margin: 0.5rem 0 2rem 0;
 }
 .modal_detail_photo .thumbnail .content .btn_primary {
-  background: #e1a146;
+  background: #c2185b;
   box-shadow: 0px 4px 20px rgba(225, 161, 70, 0.4);
   color: #000;
   border: none;
@@ -3224,7 +3225,8 @@ form.sent .wpcf7-response-output {
 }
 .main_menu .logo {
   width: 180px;
-  padding: 10px 0;
+  padding: 4px 0;
+  height: 60px;
 }
 
 .sub_menu {
@@ -3578,7 +3580,7 @@ form.sent .wpcf7-response-output {
   height: 100%;
   position: fixed;
   z-index: 999999;
-  background: var(--color-yellow);
+  background: var(--color-pink);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -3623,7 +3625,7 @@ form.sent .wpcf7-response-output {
   flex: auto;
   margin: 0 10px;
   background-color: #dfdfdf;
-  background-image: linear-gradient(to right, #e1a146, #e1a146);
+  background-image: linear-gradient(to right, #c2185b, #c2185b);
   background-repeat: no-repeat;
   background-size: 0 100%;
   transition: background-size 0.4s ease-in-out;

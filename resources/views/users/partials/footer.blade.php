@@ -43,17 +43,17 @@
                 <div class="col-md-4 item_ft fanpage_ft">
                     <div class="title_ft">Fanpage</div>
                     <div class="info_col">
-                        <!-- <div class="fb-page" data-href="https://www.facebook.com/anhvienmimosa" data-tabs="" data-width="400" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/anhvienmimosa" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anhvienmimosa">Mimosa Wedding</a></blockquote></div> -->
+                        <!-- <div class="fb-page" data-href="https://www.facebook.com/anhvienmimosa" data-tabs="" data-width="400" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/anhvienmimosa" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anhvienmimosa">Sorabridal</a></blockquote></div> -->
                         <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fanhvienmimosa&tabs&width=400&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=2041254136266004" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
                         <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fanhvienmimosa&tabs=timeline&width=340&height=271&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId=2041254136266004" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
                         <div id="fb-root"></div>
                         <script async defer crossorigin="anonymous" src="{{ asset('assets/mimosa/js/facebook-sdk-vi.js') }}#xfbml=1&version=v16.0&appId=2041254136266004&autoLogAppEvents=1" nonce="fXIGfJkS"></script>
                         <div class="fb-page" data-href="https://www.facebook.com/anhvienmimosa/" data-tabs="timeline" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                            <blockquote cite="https://www.facebook.com/anhvienmimosa/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anhvienmimosa/">Mimosa Wedding</a></blockquote>
+                            <blockquote cite="https://www.facebook.com/anhvienmimosa/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anhvienmimosa/">Sorabridal</a></blockquote>
                         </div>
                         <!-- <div id="fb-root"></div>
                     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v17.0&appId=954476962464958&autoLogAppEvents=1" nonce="qfIOQvub"></script>
-                    <div class="fb-page" data-href="https://www.facebook.com/anhvienmimosa" data-tabs="" data-width="" data-height="" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/anhvienmimosa" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anhvienmimosa">Mimosa Wedding</a></blockquote></div> -->
+                    <div class="fb-page" data-href="https://www.facebook.com/anhvienmimosa" data-tabs="" data-width="" data-height="" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/anhvienmimosa" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anhvienmimosa">Sorabridal</a></blockquote></div> -->
                     </div>
                 </div>
                 <div class="col-md-4 item_ft follow_ft">
@@ -123,7 +123,7 @@
                     </ul>
                 </div>
                 <p class="mb-0 coppyright">
-                    ©Mimosawedding 2023. All Rights Reserved </p>
+                    ©Sorabridal 2023. All Rights Reserved </p>
             </div>
         </div>
     </div>

@@ -4,7 +4,7 @@
                     <div class="sub" data-aos="fade-up">Gửi trọn niềm tin từ</div>
                     <h2 class="title" data-aos="fade-up">Những người nổi tiếng</h2>
                     <article class="mt-3" data-aos="fade-up">Với sự riêng biệt trong phong cách chụp, sự cầu kỳ cẩn trọng trong kỹ thuật để đem đến những album ảnh cưới ngập tràn cảm xúc mà cặp đôi nào cũng ao ước sở hữu trong ngày trọng đại. Bởi vậy mà rất nhiều sao Việt đã tin tưởng, lựa chọn
-                        Mimosa Wedding để đồng hành và tạo nên những khung hình tuyệt vời nhất trước hôn lễ.</article>
+                        Sorabridal để đồng hành và tạo nên những khung hình tuyệt vời nhất trước hôn lễ.</article>
                 </div>
             </div>
             <div class="listFamous">

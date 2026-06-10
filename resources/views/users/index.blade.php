@@ -2,7 +2,6 @@
 
 @section('content')
     <div class="home-page">
-        {{-- Banner: full width --}}
         <section class="w-100">
             @include('users.partials.sections.banner')
         </section>
@@ -13,7 +12,7 @@
             @include('users.partials.sections.reason')
             @include('users.partials.sections.collection')
             @include('users.partials.sections.collection-video')
-            {{-- @include('users.partials.sections.collection-tiktok') --}}
+            @include('users.partials.sections.collection-tiktok')
             @include('users.partials.sections.concept')
             @include('users.partials.sections.address')
             @include('users.partials.sections.famous')

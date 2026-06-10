@@ -1,8 +1,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#D0CDC2">
-    <title>Mimosa Wedding - Studio Chụp Ảnh Cưới Đẹp Chất Lượng</title>
+    <meta name="theme-color" content="#C2185B">
+    <title>Sorabridal - Studio Chụp Ảnh Cưới Đẹp Chất Lượng</title>
     <!-- style -->
     <link rel="stylesheet" href="{{ asset('assets/mimosa/fonts/nunito.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/mimosa/css/font-awesome.min.css') }}">
@@ -16,14 +16,14 @@
     <link rel="stylesheet" href="{{ asset('assets/mimosa/css/inline-styles.css') }}">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-    <meta name="description" content="Mimosa Wedding - Thương hiệu ảnh cưới Top đầu Hà Nội với hơn 10 năm kinh nghiệm. ✅ Photographer nhiệt tình ✅ Makeup đỉnh cao ✅ Dịch vụ hoàn hảo" />
+    <meta name="description" content="Sorabridal - Thương hiệu ảnh cưới Top đầu Hà Nội với hơn 10 năm kinh nghiệm. ✅ Photographer nhiệt tình ✅ Makeup đỉnh cao ✅ Dịch vụ hoàn hảo" />
     <link rel="canonical" href="https://mimosawedding.vn/" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Trang chủ" />
-    <meta property="og:description" content="Mimosa Wedding - Thương hiệu ảnh cưới Top đầu Hà Nội với hơn 10 năm kinh nghiệm. ✅ Photographer nhiệt tình ✅ Makeup đỉnh cao ✅ Dịch vụ hoàn hảo" />
+    <meta property="og:description" content="Sorabridal - Thương hiệu ảnh cưới Top đầu Hà Nội với hơn 10 năm kinh nghiệm. ✅ Photographer nhiệt tình ✅ Makeup đỉnh cao ✅ Dịch vụ hoàn hảo" />
     <meta property="og:url" content="https://mimosawedding.vn/" />
-    <meta property="og:site_name" content="Mimosa" />
+    <meta property="og:site_name" content="Sorabridal" />
     <meta property="article:publisher" content="https://www.facebook.com/anhvienmimosa/" />
     <meta property="article:modified_time" content="2026-06-08T05:10:26+00:00" />
     <meta property="og:image" content="https://mimosawedding.vn/wp-content/uploads/2026/06/700x1000-1.jpg" />

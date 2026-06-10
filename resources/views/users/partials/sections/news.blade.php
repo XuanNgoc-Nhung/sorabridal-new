@@ -19,7 +19,7 @@
                             <button class="nav-link " id="pills-3-tab" data-bs-toggle="pill" data-bs-target="#pills-3" type="button" role="tab" aria-controls="pills-3" aria-selected="true">Tin tức</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link " id="pills-4-tab" data-bs-toggle="pill" data-bs-target="#pills-4" type="button" role="tab" aria-controls="pills-4" aria-selected="true">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</button>
+                            <button class="nav-link " id="pills-4-tab" data-bs-toggle="pill" data-bs-target="#pills-4" type="button" role="tab" aria-controls="pills-4" aria-selected="true">Những bộ ảnh cưới đẹp nhất Sorabridal</button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link" href="/tin-tuc" style="    width: 36px; height: 36px; padding: 0; display: flex; align-items: center; justify-content: center;">
@@ -359,7 +359,7 @@
 										01-04-2026									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">Điều gì khiến các cặp đôi tin chọn Mimosa Wedding để gửi gắm bộ ảnh cưới?</a>
+									<a href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">Điều gì khiến các cặp đôi tin chọn Sorabridal để gửi gắm bộ ảnh cưới?</a>
 								</div>
 								<article>Với nhiều cặp đôi, hành trình chuẩn bị ảnh cưới thường bắt đầu bằng sự háo hức, nhưng nhanh chóng trở thành...</article>
 								<a class="readmore" href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">
@@ -382,7 +382,7 @@
 										25-08-2025									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/hot-mimosa-wedding-ra-mat-album-cuoi-tam-sinh-tam-the-phien-ban-viet/">HOT: Mimosa Wedding ra mắt album cưới “ Tam sinh tam thế” phiên bản Việt</a>
+									<a href="https://mimosawedding.vn/hot-mimosa-wedding-ra-mat-album-cuoi-tam-sinh-tam-the-phien-ban-viet/">HOT: Sorabridal ra mắt album cưới “ Tam sinh tam thế” phiên bản Việt</a>
 								</div>
 								<article>Trend mới trong giới trẻ thời gian gần đây về bộ ảnh cưới lấy ý tưởng từ dòng thời gian lịch sử Việt Nam qua...</article>
 								<a class="readmore" href="https://mimosawedding.vn/hot-mimosa-wedding-ra-mat-album-cuoi-tam-sinh-tam-the-phien-ban-viet/">
@@ -428,9 +428,9 @@
 										20-08-2024									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">Team Building: Mimosa Wedding &#8211; Khởi Nguyên</a>
+									<a href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">Team Building: Sorabridal &#8211; Khởi Nguyên</a>
 								</div>
-								<article>13/08 &#8211; 15/08/2024, Đội ngũ nhân sự của Mimosa Wedding đã cùng nhau tạo nên những kỷ niệm du lịch hè tuyệt vời....</article>
+								<article>13/08 &#8211; 15/08/2024, Đội ngũ nhân sự của Sorabridal đã cùng nhau tạo nên những kỷ niệm du lịch hè tuyệt vời....</article>
 								<a class="readmore" href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">
 								Xem thêm >>
 								</a>
@@ -509,14 +509,14 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
+									<div class="cate">Những bộ ảnh cưới đẹp nhất Sorabridal</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
 								<div class="title">
 									<a href="https://mimosawedding.vn/bo-hinh-cuoi-cua-stephen-nguyen-quan-quan-the-next-face-vietnam-2021-don-tim-dan-mang/">Bộ hình cưới của Stephen Nguyễn &#8211; quán quân The Next Face Vietnam 2021 &#8220;đốn tim&#8221; dân mạng</a>
 								</div>
-								<article>Trong bộ ảnh cưới mới nhất của Mimosa Wedding, Stephen Nguyễn &#8211; quán quân The Next Face Vietnam 2021 cùng bông hồng lai...</article>
+								<article>Trong bộ ảnh cưới mới nhất của Sorabridal, Stephen Nguyễn &#8211; quán quân The Next Face Vietnam 2021 cùng bông hồng lai...</article>
 								<a class="readmore" href="https://mimosawedding.vn/bo-hinh-cuoi-cua-stephen-nguyen-quan-quan-the-next-face-vietnam-2021-don-tim-dan-mang/">
 								Xem thêm >>
 								</a>
@@ -532,7 +532,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
+									<div class="cate">Những bộ ảnh cưới đẹp nhất Sorabridal</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
@@ -555,7 +555,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
+									<div class="cate">Những bộ ảnh cưới đẹp nhất Sorabridal</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
@@ -578,7 +578,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
+									<div class="cate">Những bộ ảnh cưới đẹp nhất Sorabridal</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
@@ -601,7 +601,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
+									<div class="cate">Những bộ ảnh cưới đẹp nhất Sorabridal</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
@@ -624,14 +624,14 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
+									<div class="cate">Những bộ ảnh cưới đẹp nhất Sorabridal</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
 								<div class="title">
 									<a href="https://mimosawedding.vn/hot-mac-trung-kien-xuat-hien-cung-nguoi-dep-bich-thuy-trong-bo-anh-cuoi-dep-nhu-mo/">HOT: Mạc Trung Kiên xuất hiện cùng người đẹp Bích Thuỳ trong bộ ảnh cưới đẹp mê ly</a>
 								</div>
-								<article>Mới đây, trên Website chính thức của Mimosa Wedding bất ngờ đăng tải loạt ảnh cưới của Mạc Trung Kiên cùng người...</article>
+								<article>Mới đây, trên Website chính thức của Sorabridal bất ngờ đăng tải loạt ảnh cưới của Mạc Trung Kiên cùng người...</article>
 								<a class="readmore" href="https://mimosawedding.vn/hot-mac-trung-kien-xuat-hien-cung-nguoi-dep-bich-thuy-trong-bo-anh-cuoi-dep-nhu-mo/">
 								Xem thêm >>
 								</a>
@@ -671,7 +671,7 @@
 								<div class="title">
 									<a href="https://mimosawedding.vn/chup-anh-cho-be-trai/">1001 Concept Và Ý Tưởng Chụp Ảnh Cho Bé Trai Ngộ Nghĩnh, Đáng Yêu</a>
 								</div>
-								<article>Nếu bạn đang tìm ý tưởng chụp ảnh cho bé trai thì bài viết dưới đây của Mimosa Wedding Studio sẽ giúp ích cho bạn....</article>
+								<article>Nếu bạn đang tìm ý tưởng chụp ảnh cho bé trai thì bài viết dưới đây của Sorabridal Studio sẽ giúp ích cho bạn....</article>
 								<a class="readmore" href="https://mimosawedding.vn/chup-anh-cho-be-trai/">
 								Xem thêm >>
 								</a>
@@ -801,9 +801,9 @@
 										13-02-2026									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/year-end-party-2025-mimosa-wedding-star-in-us-together-we-shine/">Year End Party 2025: Mimosa Wedding Star In Us &#8211; Together We Shine</a>
+									<a href="https://mimosawedding.vn/year-end-party-2025-mimosa-wedding-star-in-us-together-we-shine/">Year End Party 2025: Sorabridal Star In Us &#8211; Together We Shine</a>
 								</div>
-								<article>Year End Party 2025 của đại gia đình Mimosa Wedding diễn ra ngày 9 tháng 2 năm 2026, khép lại hành trình một năm nhiều thử...</article>
+								<article>Year End Party 2025 của đại gia đình Sorabridal diễn ra ngày 9 tháng 2 năm 2026, khép lại hành trình một năm nhiều thử...</article>
 								<a class="readmore" href="https://mimosawedding.vn/year-end-party-2025-mimosa-wedding-star-in-us-together-we-shine/">
 								Xem thêm >>
 								</a>
@@ -824,9 +824,9 @@
 										27-08-2025									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/team-building-mimosa-wedding-2025-dai-hai-trinh-chung-tay-cheo-lai-cung-vuon-khoi-xa/">Team Building Mimosa Wedding 2025: Đại Hải Trình &#8211; Chung tay chèo lái, cùng vươn khơi xa</a>
+									<a href="https://mimosawedding.vn/team-building-mimosa-wedding-2025-dai-hai-trinh-chung-tay-cheo-lai-cung-vuon-khoi-xa/">Team Building Sorabridal 2025: Đại Hải Trình &#8211; Chung tay chèo lái, cùng vươn khơi xa</a>
 								</div>
-								<article>Một chút thảnh thơi, tạm dừng nhịp quay cuồng của công việc, đại gia đình Mimosa Wedding đã có mặt tại biển Mỹ...</article>
+								<article>Một chút thảnh thơi, tạm dừng nhịp quay cuồng của công việc, đại gia đình Sorabridal đã có mặt tại biển Mỹ...</article>
 								<a class="readmore" href="https://mimosawedding.vn/team-building-mimosa-wedding-2025-dai-hai-trinh-chung-tay-cheo-lai-cung-vuon-khoi-xa/">
 								Xem thêm >>
 								</a>
@@ -847,9 +847,9 @@
 										13-02-2025									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/tiec-year-end-party-2024-hanh-trinh-tien-phong-cua-mimosa-wedding/">Tiệc Year End Party 2024 &#8211; Hành Trình Tiên Phong Của Mimosa Wedding</a>
+									<a href="https://mimosawedding.vn/tiec-year-end-party-2024-hanh-trinh-tien-phong-cua-mimosa-wedding/">Tiệc Year End Party 2024 &#8211; Hành Trình Tiên Phong Của Sorabridal</a>
 								</div>
-								<article>Ngày 16/01/2025, Mimosa Wedding đã tổ chức buổi tiệc Tất niên 2024 với chủ đề “Tiên Phong”. Lấy cảm hứng từ hình...</article>
+								<article>Ngày 16/01/2025, Sorabridal đã tổ chức buổi tiệc Tất niên 2024 với chủ đề “Tiên Phong”. Lấy cảm hứng từ hình...</article>
 								<a class="readmore" href="https://mimosawedding.vn/tiec-year-end-party-2024-hanh-trinh-tien-phong-cua-mimosa-wedding/">
 								Xem thêm >>
 								</a>
@@ -870,9 +870,9 @@
 										20-08-2024									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">Team Building: Mimosa Wedding &#8211; Khởi Nguyên</a>
+									<a href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">Team Building: Sorabridal &#8211; Khởi Nguyên</a>
 								</div>
-								<article>13/08 &#8211; 15/08/2024, Đội ngũ nhân sự của Mimosa Wedding đã cùng nhau tạo nên những kỷ niệm du lịch hè tuyệt vời....</article>
+								<article>13/08 &#8211; 15/08/2024, Đội ngũ nhân sự của Sorabridal đã cùng nhau tạo nên những kỷ niệm du lịch hè tuyệt vời....</article>
 								<a class="readmore" href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">
 								Xem thêm >>
 								</a>
@@ -893,7 +893,7 @@
 										20-01-2024									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/year-end-party-mimosa-wedding-2023-light-house/">Year End Party Mimosa Wedding 2023 &#8211; “Light House”</a>
+									<a href="https://mimosawedding.vn/year-end-party-mimosa-wedding-2023-light-house/">Year End Party Sorabridal 2023 &#8211; “Light House”</a>
 								</div>
 								<article>Ngày 17/01/2024, tiệc Tất niên 2023 &#8211; Chào đón 2024 với chủ đề “Lighthouse” đã diễn ra với sự tham dự của ban...</article>
 								<a class="readmore" href="https://mimosawedding.vn/year-end-party-mimosa-wedding-2023-light-house/">
@@ -916,9 +916,9 @@
 										31-08-2023									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/team-building-mimosa-together-ket-suc-manh-noi-thanh-cong/">Team Building: Mimosa Together &#8211; Kết sức mạnh, Nối thành công</a>
+									<a href="https://mimosawedding.vn/team-building-mimosa-together-ket-suc-manh-noi-thanh-cong/">Team Building: Sorabridal Together &#8211; Kết sức mạnh, Nối thành công</a>
 								</div>
-								<article>Nhằm tạo nên không khí và môi trường gắn kết cho đội ngũ nhân sự của mình, ngày 08 – 09/08/2023 vừa qua, Mimosa...</article>
+								<article>Nhằm tạo nên không khí và môi trường gắn kết cho đội ngũ nhân sự của mình, ngày 08 – 09/08/2023 vừa qua, Sorabridal...</article>
 								<a class="readmore" href="https://mimosawedding.vn/team-building-mimosa-together-ket-suc-manh-noi-thanh-cong/">
 								Xem thêm >>
 								</a>
@@ -951,7 +951,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Mimosa Academy</div>
+									<div class="cate">Sorabridal Academy</div>
 									<div class="time">
 										19-05-2026									</div>
 								</div>
@@ -974,7 +974,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Mimosa Academy</div>
+									<div class="cate">Sorabridal Academy</div>
 									<div class="time">
 										15-01-2026									</div>
 								</div>
@@ -997,7 +997,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Mimosa Academy</div>
+									<div class="cate">Sorabridal Academy</div>
 									<div class="time">
 										13-01-2026									</div>
 								</div>
@@ -1020,7 +1020,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Mimosa Academy</div>
+									<div class="cate">Sorabridal Academy</div>
 									<div class="time">
 										22-02-2025									</div>
 								</div>
@@ -1043,7 +1043,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Mimosa Academy</div>
+									<div class="cate">Sorabridal Academy</div>
 									<div class="time">
 										29-09-2023									</div>
 								</div>
@@ -1066,7 +1066,7 @@
 							</div>
 							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
-									<div class="cate">Mimosa Academy</div>
+									<div class="cate">Sorabridal Academy</div>
 									<div class="time">
 										03-08-2023									</div>
 								</div>
@@ -1266,9 +1266,9 @@
 										03-08-2023									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/co-dau-chu-re-tu-ch-sec-ve-viet-nam-chup-anh-cuoi-noi-gi-ve-mimosa-wedding-sau-khi-thuc-hien-concept-dac-biet/">Cô dâu &#8211; Chú rể từ CH Séc Nói Gì Về Mimosa Wedding Sau Khi Thực Hiện Concept Đặc Biệt</a>
+									<a href="https://mimosawedding.vn/co-dau-chu-re-tu-ch-sec-ve-viet-nam-chup-anh-cuoi-noi-gi-ve-mimosa-wedding-sau-khi-thuc-hien-concept-dac-biet/">Cô dâu &#8211; Chú rể từ CH Séc Nói Gì Về Sorabridal Sau Khi Thực Hiện Concept Đặc Biệt</a>
 								</div>
-								<article>Vừa qua, Mimosa Wedding rất vui và hạnh phúc khi được trở thành người bạn đồng hành, thực hiện bộ ảnh cưới mang...</article>
+								<article>Vừa qua, Sorabridal rất vui và hạnh phúc khi được trở thành người bạn đồng hành, thực hiện bộ ảnh cưới mang...</article>
 								<a class="readmore" href="https://mimosawedding.vn/co-dau-chu-re-tu-ch-sec-ve-viet-nam-chup-anh-cuoi-noi-gi-ve-mimosa-wedding-sau-khi-thuc-hien-concept-dac-biet/">
 								Xem thêm >>
 								</a>
@@ -1289,7 +1289,7 @@
 										03-08-2023									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/feedback-cua-cap-doi-canh-bang-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">Feedback của cặp đôi Cảnh &#8211; Băng sau buổi chụp hình cưới tại Mimosa Wedding</a>
+									<a href="https://mimosawedding.vn/feedback-cua-cap-doi-canh-bang-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">Feedback của cặp đôi Cảnh &#8211; Băng sau buổi chụp hình cưới tại Sorabridal</a>
 								</div>
 								<article>Mỗi ngày được làm việc để đem đến những shoot hình đẹp nhất, ấn tượng nhất cho dâu &#8211; rể là niềm vui của...</article>
 								<a class="readmore" href="https://mimosawedding.vn/feedback-cua-cap-doi-canh-bang-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">
@@ -1312,9 +1312,9 @@
 										03-08-2023									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/gia-dinh-cu-cai-noi-gi-ve-mimosa-wedding-sau-buoi-chup-hinh-cuoi-cuc-an-tuong/">Gia đình Củ Cải nói gì về Mimosa Wedding sau buổi chụp hình cưới cực ấn tượng?</a>
+									<a href="https://mimosawedding.vn/gia-dinh-cu-cai-noi-gi-ve-mimosa-wedding-sau-buoi-chup-hinh-cuoi-cuc-an-tuong/">Gia đình Củ Cải nói gì về Sorabridal sau buổi chụp hình cưới cực ấn tượng?</a>
 								</div>
-								<article>Gia đình Củ Cải chắc hẳn chẳng còn quá xa lạ với CĐM yêu thích thú cưng. Ngày vừa qua, Mimosa Wedding rất vui và hạnh...</article>
+								<article>Gia đình Củ Cải chắc hẳn chẳng còn quá xa lạ với CĐM yêu thích thú cưng. Ngày vừa qua, Sorabridal rất vui và hạnh...</article>
 								<a class="readmore" href="https://mimosawedding.vn/gia-dinh-cu-cai-noi-gi-ve-mimosa-wedding-sau-buoi-chup-hinh-cuoi-cuc-an-tuong/">
 								Xem thêm >>
 								</a>
@@ -1335,9 +1335,9 @@
 										03-08-2023									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/feedback-cua-binh-an-phuong-nga-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">Feedback của cặp đôi Lộc &#8211; Thuỷ sau buổi chụp hình cưới tại Mimosa Wedding</a>
+									<a href="https://mimosawedding.vn/feedback-cua-binh-an-phuong-nga-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">Feedback của cặp đôi Lộc &#8211; Thuỷ sau buổi chụp hình cưới tại Sorabridal</a>
 								</div>
-								<article>Thời gian vừa qua, Mimosa Wedding đã nhận được rất nhiều feedback vô cùng đáng yêu đến từ dâu &#8211; rể đã sử...</article>
+								<article>Thời gian vừa qua, Sorabridal đã nhận được rất nhiều feedback vô cùng đáng yêu đến từ dâu &#8211; rể đã sử...</article>
 								<a class="readmore" href="https://mimosawedding.vn/feedback-cua-binh-an-phuong-nga-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">
 								Xem thêm >>
 								</a>
@@ -1926,7 +1926,7 @@
 										01-04-2026									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">Điều gì khiến các cặp đôi tin chọn Mimosa Wedding để gửi gắm bộ ảnh cưới?</a>
+									<a href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">Điều gì khiến các cặp đôi tin chọn Sorabridal để gửi gắm bộ ảnh cưới?</a>
 								</div>
 								<article>Với nhiều cặp đôi, hành trình chuẩn bị ảnh cưới thường bắt đầu bằng sự háo hức, nhưng nhanh chóng trở thành...</article>
 								<a class="readmore" href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">
@@ -1997,7 +1997,7 @@
 								<div class="title">
 									<a href="https://mimosawedding.vn/hot-a-hau-phuong-nga-va-binh-an-tung-bo-anh-cuoi-dep-nhu-mo-khien-fan-me-man/">HOT: Á hậu Phương Nga và Bình An tung bộ ảnh cưới đẹp như mơ khiến fan mê mẩn</a>
 								</div>
-								<article>Cách đây vài ngày, trang page chính của Mimosa wedding chính thức tung bộ ảnh cưới của Á hậu Việt Nam 2018 &#8211; Bùi...</article>
+								<article>Cách đây vài ngày, trang page chính của Sorabridal chính thức tung bộ ảnh cưới của Á hậu Việt Nam 2018 &#8211; Bùi...</article>
 								<a class="readmore" href="https://mimosawedding.vn/hot-a-hau-phuong-nga-va-binh-an-tung-bo-anh-cuoi-dep-nhu-mo-khien-fan-me-man/">
 								Xem thêm >>
 								</a>
@@ -2041,9 +2041,9 @@
 										03-08-2023									</div>
 								</div>
 								<div class="title">
-									<a href="https://mimosawedding.vn/anh-vien-mimosa-bien-moi-khoanh-khac-thanh-vinh-cuu/">Ảnh viện Mimosa – Biến mỗi khoảnh khắc thành vĩnh cửu</a>
+									<a href="https://mimosawedding.vn/anh-vien-mimosa-bien-moi-khoanh-khac-thanh-vinh-cuu/">Ảnh viện Sorabridal – Biến mỗi khoảnh khắc thành vĩnh cửu</a>
 								</div>
-								<article>Cuộc sống là tập hợp những khoảnh khắc, Ảnh viện Mimosa hiểu rằng, thời khắc bạn nắm tay người yêu thương để...</article>
+								<article>Cuộc sống là tập hợp những khoảnh khắc, Ảnh viện Sorabridal hiểu rằng, thời khắc bạn nắm tay người yêu thương để...</article>
 								<a class="readmore" href="https://mimosawedding.vn/anh-vien-mimosa-bien-moi-khoanh-khac-thanh-vinh-cuu/">
 								Xem thêm >>
 								</a>
