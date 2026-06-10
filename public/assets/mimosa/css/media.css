@@ -1,0 +1,130 @@
+@media (max-width: 640px) {
+	.description_price {
+		flex-flow: column;
+	}
+	.description_price .nav{
+		justify-content: center;
+		gap: 1rem;
+		margin-top: 1rem;
+	}
+    .section_customer .mimosa-imgHeader img {
+        width: 115px;
+        opacity: 0.5;
+    }
+    .section_customer .customer_section-name {
+        font-size: 2.25rem !important;
+    }
+    .play_video{
+        width: 80px;
+        height: 80px;
+    }
+    .play_video span{
+        display: none;
+    }
+    .play_video svg{
+        margin-right: 0;
+    }
+    .modal_detail_photo .detail_info .title, .modal_detail_photo .detail_info ul li{
+        /* flex-wrap: wrap; */
+        flex-flow: column;
+    }
+    .modal_detail_photo .detail_info .title .btn_theme {
+        margin-left: 0 !important;
+        margin-top: 1rem;
+    }
+    .modal_detail_photo .detail_info ul span:nth-child(1){
+        flex: 0 0 auto;
+    }
+}
+.section_customer{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.section_customer .mimosa-imgHeader {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.section_customer::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #000000bf;
+}
+
+.section_customer .mimosa-imgHeader img {
+    width: 200px;
+}
+.section_customer .customer_section{
+    font-family: var(--font-sub);
+    font-size: 2rem;
+    color: var(--color-yellow);
+}
+.section_customer .customer_section-name {
+    font-size: 3rem;
+    color: #fff;
+}
+.mimosa-bannerYear-item{
+    background: #fff;
+    width: 97px;
+    height: 79px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin-right: 8px;
+    text-decoration: none;
+    box-shadow: -2px -1px 11px 6px #ffc77333;
+}
+.mimosa-bannerYear-item .yearItemNam{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.mimosa-bannerYear-item .yearItemNumber{
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.customer_section-main{
+    margin-bottom: 2rem;
+}
+.customer_section-main .mimosa-bannerYear{
+    /* justify-content: center; */
+}
+.background_customer .item_album a{
+    /* color: #fff; */
+}
+.background_customer {
+    margin-top: -74px;
+    background: var(--bg-theme);
+    z-index: 1;
+    position: relative;
+    padding-top: 6rem;
+    padding-bottom: 80px;
+}
+.background_customer .pagiline .line{
+    background: #00000036;
+}
+.background_customer .pagination .page-item a{
+    /* border: 1px solid #a1a1a126 ! IMPORTANT; */!I;!;
+}
+
+.background_customer .pagination .page-item.active a {
+    /* border: 1px solid var(--color-yellow) !important; */
+}
+.section_customer .container, .section_customer .container_frame{
+    position: relative;
+    z-index: 2;
+}
+.custommer_home{
+    padding-top: 4rem;
+}
