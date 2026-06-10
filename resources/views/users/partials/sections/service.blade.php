@@ -1,8 +1,8 @@
-            <div class="homeService section">
-                <div class="container_frame position-relative">
-                    <img class="img_pattern lazyload" data-aos="zoom-in" data-src="/wp-content/uploads/2023/05/Group-1.png" alt="">
-                    <div class="d-flex list_service">
-                        <div id="tabcontainer" class="left_service">
+<div class="homeService section">
+    <div class="container container_frame position-relative">
+        <img class="img_pattern lazyload" data-aos="zoom-in" data-src="/wp-content/uploads/2023/05/Group-1.png" alt="">
+        <div class="row list_service align-items-start g-0">
+            <div id="tabcontainer" class="left_service col-lg-3 col-md-12">
                             <div id="tabcontent" class="tabs">
                                 <div class="img_left">
                                     <div class="image" data-aos="fade-right">
@@ -14,7 +14,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="center_service">
+            <div class="center_service col-lg-5 col-md-12">
                             <div class="segContent">
                                 <div class="sub" data-aos="fade-up">MimoSa Wedding</div>
                                 <h2 class="title" data-aos="fade-up">Khám phá dịch vụ <br>của chúng tôi</h2>
@@ -78,13 +78,13 @@
                                 </li>
                             </ul>
                         </div>
-                        <div id="tabcontainer-2" class="right_service">
+            <div id="tabcontainer-2" class="right_service col-lg-4 col-md-12">
                             <div id="tabcontent" class="tabs">
                                 <div class="image" data-aos="fade-left">
                                     <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2024/07/Concept-tu-nhien-2.jpg" alt="">
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
             </div>
+        </div>
+    </div>
+</div>

@@ -1,5 +1,5 @@
-        <div class="homeConcept section">
-            <div class="container_frame position-relative">
+<div class="homeConcept section">
+    <div class="container container_frame position-relative">
                 <div class="content">
                     <img class="pattern lazyload" data-aos="zoom-in" data-src="/wp-content/uploads/2023/05/Group.png" alt="">
                     <div class="sub_title" data-aos="zoom-in">New concept</div>
@@ -119,5 +119,5 @@
 					<path d="M4.5 11.3334L7.83333 8.00002L4.5 4.66669" stroke="#242424" stroke-linecap="round" stroke-linejoin="round"/>
 				</svg>
 			</a>
-            </div>
-        </div>
+    </div>
+</div>

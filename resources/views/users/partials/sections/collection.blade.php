@@ -1,5 +1,5 @@
-            <div class="homeCollection section">
-                <div class="container_frame">
+<div class="homeCollection section">
+    <div class="container container_frame">
                     <div class="segContent mb-4">
                         <div class="sub" data-aos="fade-up">say đắm câu chuyện tình yêu trong</div>
                         <h2 class="title" data-aos="fade-up">Những bộ sưu tập ấn tượng</h2>
@@ -187,5 +187,5 @@
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
+    </div>
+</div>

@@ -1,6 +1,6 @@
-    <div class="homeFeedback section">
-        <img class="bck_feed w-100 lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/nam-mo-thay-minh-dam-cuoi-3.jpg" alt="">
-        <div class="container_frame">
+<div class="homeFeedback section position-relative">
+    <img class="bck_feed w-100 lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/nam-mo-thay-minh-dam-cuoi-3.jpg" alt="">
+    <div class="container container_frame position-relative">
             <div class="content_title text-center">
                 <div class="subtitle" data-aos="fade-up">Khách hàng nói gì</div>
                 <h2 class="title" data-aos="fade-up">Về Mimosa wedding</h2>
@@ -79,5 +79,5 @@
                     <div class="note">Kế toán</div>
                 </div>
             </div>
-        </div>
     </div>
+</div>

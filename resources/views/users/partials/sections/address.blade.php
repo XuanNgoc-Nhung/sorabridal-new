@@ -1,14 +1,16 @@
-        <div class="homeAdress section">
-            <div class="container_frame">
-                <div class="--content_dress d-flex">
-                    <div class="segContent">
+<div class="homeAdress section">
+    <div class="container container_frame">
+        <div class="row align-items-end justify-content-between --content_dress">
+            <div class="col-md-8 segContent">
                         <img class="pattern lazyload" data-src="/wp-content/uploads/2023/05/Group-1.png" alt="">
                         <div class="sub_title aos-init aos-animate" data-aos="fade-right">Váy cưới đẹp</div>
                         <div class="title aos-init aos-animate" data-aos="fade-right">Mimosa Wedding</div>
-                    </div>
-                    <a href="/vay-cuoi" data-aos="fade-left" class="btn_primary">XEM TẤT CẢ</a>
-                </div>
-                <div class="list_adress row">
+            </div>
+            <div class="col-md-auto text-md-end">
+                <a href="/vay-cuoi" data-aos="fade-left" class="btn_primary">XEM TẤT CẢ</a>
+            </div>
+        </div>
+        <div class="list_adress row g-4">
                     <div class="item_dress col-md-3 position-relative" data-aos="fade-up" data-aos-delay="0">
                         <div class="image">
                             <a href="https://mimosawedding.vn/vay_cuoi/charmaine-dress/">
@@ -61,6 +63,6 @@
                             <div class="label">Calistal Dress</div>
                         </div>
                     </div>
-                </div>
-            </div>
         </div>
+    </div>
+</div>

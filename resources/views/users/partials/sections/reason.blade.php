@@ -1,12 +1,13 @@
-            <div class="homeReason section">
-                <div class="container_frame position-relative">
+<div class="homeReason section">
+    <div class="container container_frame position-relative">
                     <img class="lazyload pattern" data-src="/wp-content/uploads/2023/05/Group.png" alt="">
                     <div class="list_reason" data-aos="fade-up">
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row align-items-center g-4">
+                            <div class="col-md-6 image">
                                 <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/06/z4468093140804_a1101df418bb6701eb18db5cf8d13cb0.jpg" alt="">
                             </div>
-                            <div class="content">
+                            <div class="col-md-6 content">
                                 <div class="sub_title">Vì sao bạn nên chọn</div>
                                 <h2 class="title">Mimosa Wedding</h2>
                                 <article>
@@ -20,13 +21,15 @@
 							<span>Tìm hiểu thêm</span>
 							<div class="line"></div>
 						</a>
+                            </div>
                             </div>
                         </div>
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row align-items-center g-4">
+                            <div class="col-md-6 image">
                                 <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/06/z4468093140804_a1101df418bb6701eb18db5cf8d13cb0.jpg" alt="">
                             </div>
-                            <div class="content">
+                            <div class="col-md-6 content">
                                 <div class="sub_title">Vì sao bạn nên chọn</div>
                                 <h2 class="title">Mimosa Wedding</h2>
                                 <article>
@@ -40,6 +43,7 @@
 							<span>Tìm hiểu thêm</span>
 							<div class="line"></div>
 						</a>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -51,5 +55,5 @@
                             <div id="total_feed"></div>
                         </div>
                     </div>
-                </div>
-            </div>
+    </div>
+</div>

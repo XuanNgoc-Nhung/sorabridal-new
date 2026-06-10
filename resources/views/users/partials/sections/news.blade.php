@@ -1,5 +1,5 @@
     <div class="homeNews section" id="news_home">
-        <div class="container_frame">
+        <div class="container container_frame">
             <div class="row justify-content-between align-items-end">
                 <div class="col-md-4">
                     <div class="segContent text-left">
@@ -35,13 +35,14 @@
             <div class="tab-content" id="pills-tabNewsContent" data-aos="fade-up">
                 <div class="tab-pane fade show active" id="pills-1" role="tabpanel" aria-labelledby="pills-1-tab">
                     <div class="list_news list_home_news">
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row g-3 align-items-start">
+                            <div class="col-md-5 col-lg-4 image">
                                 <a href="https://mimosawedding.vn/phim-truong-smiley-ville/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/review-phim-truong-smiley-ville-dong-anh-33.jpg" alt="">
 								</a>
                             </div>
-                            <div class="content">
+                            <div class="col-md-7 col-lg-8 content">
                                 <div class="cate_time d-flex">
                                     <div class="cate">Phim Trường</div>
                                     <div class="time">
@@ -55,14 +56,16 @@
 								Xem thêm >>
 								</a>
                             </div>
+                            </div>
                         </div>
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row g-3 align-items-start">
+                            <div class="col-md-5 col-lg-4 image">
                                 <a href="https://mimosawedding.vn/phim-truong-ray-concept/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/Phim-truong-ray-concept-phim-truong-mini-dep-nhat-ha-noi3.jpg" alt="">
 								</a>
                             </div>
-                            <div class="content">
+                            <div class="col-md-7 col-lg-8 content">
                                 <div class="cate_time d-flex">
                                     <div class="cate">Phim Trường</div>
                                     <div class="time">
@@ -76,14 +79,16 @@
 								Xem thêm >>
 								</a>
                             </div>
+                            </div>
                         </div>
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row g-3 align-items-start">
+                            <div class="col-md-5 col-lg-4 image">
                                 <a href="https://mimosawedding.vn/phim-truong-biet-thu-hoa-hong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/phim-truong-biet-thu-hoa-hong-rose-valley-32.jpg" alt="">
 								</a>
                             </div>
-                            <div class="content">
+                            <div class="col-md-7 col-lg-8 content">
                                 <div class="cate_time d-flex">
                                     <div class="cate">Phim Trường</div>
                                     <div class="time">
@@ -97,14 +102,16 @@
 								Xem thêm >>
 								</a>
                             </div>
+                            </div>
                         </div>
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row g-3 align-items-start">
+                            <div class="col-md-5 col-lg-4 image">
                                 <a href="https://mimosawedding.vn/phim-truong-santorini/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/phim-truong-santorini-2-1.jpg" alt="">
 								</a>
                             </div>
-                            <div class="content">
+                            <div class="col-md-7 col-lg-8 content">
                                 <div class="cate_time d-flex">
                                     <div class="cate">Phim Trường</div>
                                     <div class="time">
@@ -118,14 +125,16 @@
 								Xem thêm >>
 								</a>
                             </div>
+                            </div>
                         </div>
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row g-3 align-items-start">
+                            <div class="col-md-5 col-lg-4 image">
                                 <a href="https://mimosawedding.vn/phim-truong-lavender-park/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/Phim-truong-Lavender-Park-13.jpg" alt="">
 								</a>
                             </div>
-                            <div class="content">
+                            <div class="col-md-7 col-lg-8 content">
                                 <div class="cate_time d-flex">
                                     <div class="cate">Phim Trường</div>
                                     <div class="time">
@@ -139,14 +148,16 @@
 								Xem thêm >>
 								</a>
                             </div>
+                            </div>
                         </div>
-                        <div class="item d-flex">
-                            <div class="image">
+                        <div class="item">
+                            <div class="row g-3 align-items-start">
+                            <div class="col-md-5 col-lg-4 image">
                                 <a href="https://mimosawedding.vn/phim-truong-cherry-land/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-cuoi-phim-truong-cherry-land-6.jpg" alt="">
 								</a>
                             </div>
-                            <div class="content">
+                            <div class="col-md-7 col-lg-8 content">
                                 <div class="cate_time d-flex">
                                     <div class="cate">Phim Trường</div>
                                     <div class="time">
@@ -159,6 +170,7 @@
                                 <a class="readmore" href="https://mimosawedding.vn/phim-truong-cherry-land/">
 								Xem thêm >>
 								</a>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -178,13 +190,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-2" role="tabpanel" aria-labelledby="pills-2-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/album-anh-cuoi-dep-tai-bien-quan-lan/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/23-Copy.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Album ảnh cưới</div>
 									<div class="time">
@@ -198,14 +211,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/album-anh-cuoi-dep-tai-studio-han-quoc/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/DSC04942-Copy.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Album ảnh cưới</div>
 									<div class="time">
@@ -219,14 +234,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/album-anh-cuoi-dep-tai-studio-han-quoc-2/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/8-Copy-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Album ảnh cưới</div>
 									<div class="time">
@@ -240,14 +257,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/anh-cuoi-dep-phim-truong-5-garden/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/album-anh-cuoi-phim-truong-5garden-12.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Album ảnh cưới</div>
 									<div class="time">
@@ -261,14 +280,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/album-anh-cuoi-dep-truong-trang/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/Album-anh-cuoi-dep-truong-trang-11.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Album ảnh cưới</div>
 									<div class="time">
@@ -282,14 +303,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/album-anh-cuoi-dep-chup-tai-ho-tay/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/116-Copy-Copy-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Album ảnh cưới</div>
 									<div class="time">
@@ -302,6 +325,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/album-anh-cuoi-dep-chup-tai-ho-tay/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -321,13 +345,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-3" role="tabpanel" aria-labelledby="pills-3-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">
 								<img class="lazyload w-100" data-src="" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -341,14 +366,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hot-mimosa-wedding-ra-mat-album-cuoi-tam-sinh-tam-the-phien-ban-viet/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/08/tinh-ca-ha-thanh-33.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -362,14 +389,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chiem-nguong-nhan-sac-toa-sang-cua-hoa-hau-miss-international-2024-thanh-thuy-trong-bst-vay-cuoi-radiance-couture-cua-cali-bridal/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/11/hoa-hau-miss-international-2024-thanh-thuy-4.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -383,14 +412,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/08/team-building-mimosa-2024-63.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -404,14 +435,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/trinh-lang-album-anh-cuoi-xoai-non-va-lou-hoang/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/chup-anh-cuoi-lou-hoang-xoai-non-45.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -425,14 +458,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cuoi-lou-hoang-xoai-non/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/07/chup-anh-cuoi-lou-hoang-xoai-non-9.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -445,6 +480,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/chup-anh-cuoi-lou-hoang-xoai-non/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -464,13 +500,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-4" role="tabpanel" aria-labelledby="pills-4-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/bo-hinh-cuoi-cua-stephen-nguyen-quan-quan-the-next-face-vietnam-2021-don-tim-dan-mang/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/bo-hinh-cuoi-cua-stephen-nguyen-quan-quan-the-next-face-vietnam-2021-don-tim-dan-mang-36.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
 									<div class="time">
@@ -484,14 +521,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hot-tiktoker-le-trung-hoang-va-meo-us-gay-bat-ngo-voi-bo-anh-cuoi-dep-doc-dao-va-an-tuong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/hot-tiktoker-le-trung-hoang-va-meo-us-gay-bat-ngo-voi-bo-anh-cuoi-dep-doc-dao-va-an-tuong-12.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
 									<div class="time">
@@ -505,14 +544,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/phat-sot-voi-bo-anh-cuoi-cua-nguoi-mau-nham-phuong-nam-tai-xu-so-suong-mu-tam-dao/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/phat-sot-voi-bo-anh-cuoi-cua-nguoi-mau-nham-phuong-nam-tai-xu-so-suong-mu-tam-dao-110.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
 									<div class="time">
@@ -526,14 +567,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/bo-anh-cuoi-phong-cach-chau-u-sang-trong-tinh-te-cua-cap-doi-9x-gay-bao/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/bo-anh-cuoi-phong-cach-chau-u-sang-trong-tinh-te-cua-cap-doi-9x-gay-bao-88.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
 									<div class="time">
@@ -547,14 +590,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/he-lo-bo-album-anh-cuoi-cung-nhan-sac-dinh-cua-chop-cua-vo-dien-vien-duy-hung/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/Hieu-pho-trong-lang-27.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
 									<div class="time">
@@ -568,14 +613,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hot-mac-trung-kien-xuat-hien-cung-nguoi-dep-bich-thuy-trong-bo-anh-cuoi-dep-nhu-mo/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/anh-cuoi-dep-tai-phim-truong-39.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Những bộ ảnh cưới đẹp nhất Mimosa Wedding</div>
 									<div class="time">
@@ -588,6 +635,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/hot-mac-trung-kien-xuat-hien-cung-nguoi-dep-bich-thuy-trong-bo-anh-cuoi-dep-nhu-mo/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -607,13 +655,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-5" role="tabpanel" aria-labelledby="pills-5-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cho-be-trai/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-cho-be-trai-4.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh cho bé</div>
 									<div class="time">
@@ -627,14 +676,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-thoi-noi-cho-be/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-thoi-noi-cho-be-17.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh cho bé</div>
 									<div class="time">
@@ -648,14 +699,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cho-be-1-tuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-cho-be-1-tuoi-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh cho bé</div>
 									<div class="time">
@@ -669,14 +722,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cho-be-so-sinh/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-cho-be-so-sinh-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh cho bé</div>
 									<div class="time">
@@ -690,14 +745,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cho-be-o-dau-dep/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-cho-be-o-dau-dep-1-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh cho bé</div>
 									<div class="time">
@@ -710,6 +767,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/chup-anh-cho-be-o-dau-dep/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -729,13 +787,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-6" role="tabpanel" aria-labelledby="pills-6-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/year-end-party-2025-mimosa-wedding-star-in-us-together-we-shine/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2026/02/year-end-party-2025-22.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -749,14 +808,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/team-building-mimosa-wedding-2025-dai-hai-trinh-chung-tay-cheo-lai-cung-vuon-khoi-xa/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/08/team-building-2025-101.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -770,14 +831,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/tiec-year-end-party-2024-hanh-trinh-tien-phong-cua-mimosa-wedding/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/02/yep-2024-mimosa-wedding-56.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -791,14 +854,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/team-building-mimosa-wedding-khoi-nguyen/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/08/team-building-mimosa-2024-63.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -812,14 +877,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/year-end-party-mimosa-wedding-2023-light-house/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/01/YEP2023-136.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -833,14 +900,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/team-building-mimosa-together-ket-suc-manh-noi-thanh-cong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/makeup-chuyen-nghiep-18.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Sự kiện lớn</div>
 									<div class="time">
@@ -853,6 +922,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/team-building-mimosa-together-ket-suc-manh-noi-thanh-cong/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -872,13 +942,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-7" role="tabpanel" aria-labelledby="pills-7-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hoc-chup-anh-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/hoc-chup-anh-cuoi-5.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Mimosa Academy</div>
 									<div class="time">
@@ -892,14 +963,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/am-ban-la-gi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/am-ban-la-gi-4.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Mimosa Academy</div>
 									<div class="time">
@@ -913,14 +986,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/nen-mua-may-anh-na-duoi-10-trieu/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/nen-mua-may-anh-nao-duoi-10-trieu-4.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Mimosa Academy</div>
 									<div class="time">
@@ -934,14 +1009,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hoc-chup-anh-cuoi-chuyen-nghiep/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/02/fc48bf97119430daf8ea577144598942.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Mimosa Academy</div>
 									<div class="time">
@@ -955,14 +1032,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/nen-hoc-chup-anh-cuoi-hay-tu-hoc/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/co-nen-hoc-nghe-chup-anh-cuoi-hay-tu-hoc-2.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Mimosa Academy</div>
 									<div class="time">
@@ -976,14 +1055,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/cach-su-dung-may-anh-co-canon-chuan-nhat/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/cach-su-dung-may-anh-co-canon-9.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Mimosa Academy</div>
 									<div class="time">
@@ -996,6 +1077,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/cach-su-dung-may-anh-co-canon-chuan-nhat/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1015,13 +1097,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-8" role="tabpanel" aria-labelledby="pills-8-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/thiep-cuoi-vintage-2/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/07/thiep-cuoi-vintage-34.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Thiệp cưới</div>
 									<div class="time">
@@ -1035,14 +1118,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/tao-thiep-cuoi-online-co-ma-qr/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/07/tao-thiep-cuoi-online-co-ma-qr-1.jpeg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Thiệp cưới</div>
 									<div class="time">
@@ -1056,14 +1141,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/thiep-cuoi-truyen-thong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/07/thiep-cuoi-truyen-thong-4.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Thiệp cưới</div>
 									<div class="time">
@@ -1077,14 +1164,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/thiep-cuoi-mau-hong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/07/thiep-cuoi-mau-hong-5.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Thiệp cưới</div>
 									<div class="time">
@@ -1098,14 +1187,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/thiep-cuoi-do/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/07/thiep-cuoi-do-2.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Thiệp cưới</div>
 									<div class="time">
@@ -1119,14 +1210,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/thiep-cuoi-sang-trong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/06/thiep-cuoi-sang-trong-18.png" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Thiệp cưới</div>
 									<div class="time">
@@ -1139,6 +1232,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/thiep-cuoi-sang-trong/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1158,13 +1252,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-9" role="tabpanel" aria-labelledby="pills-9-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/co-dau-chu-re-tu-ch-sec-ve-viet-nam-chup-anh-cuoi-noi-gi-ve-mimosa-wedding-sau-khi-thuc-hien-concept-dac-biet/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-cuoi-pho-co-29.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Feedback khách hàng</div>
 									<div class="time">
@@ -1178,14 +1273,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/feedback-cua-cap-doi-canh-bang-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/feedback-cua-cap-doi-canh-bang-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Feedback khách hàng</div>
 									<div class="time">
@@ -1199,14 +1296,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/gia-dinh-cu-cai-noi-gi-ve-mimosa-wedding-sau-buoi-chup-hinh-cuoi-cuc-an-tuong/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/gia-dinh-cu-cai-noi-gi-ve-mimosa-wedding-sau-buoi-chup-hinh-cuoi-cuc-an-tuong-9.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Feedback khách hàng</div>
 									<div class="time">
@@ -1220,14 +1319,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/feedback-cua-binh-an-phuong-nga-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/anh-cuoi-loc-thuy.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Feedback khách hàng</div>
 									<div class="time">
@@ -1240,6 +1341,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/feedback-cua-binh-an-phuong-nga-sau-buoi-chup-hinh-cuoi-tai-mimosa-wedding/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1259,13 +1361,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-10" role="tabpanel" aria-labelledby="pills-10-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/100-58-Copy-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Gói ảnh</div>
 									<div class="time">
@@ -1279,14 +1382,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/makeup-chuyen-nghiep/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/phong-cach-trang-diem.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Gói ảnh</div>
 									<div class="time">
@@ -1300,14 +1405,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/cau-chuyen-thuong-hieu/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/thuong-hieu-mimosa-675x400-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Gói ảnh</div>
 									<div class="time">
@@ -1320,6 +1427,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/cau-chuyen-thuong-hieu/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1339,13 +1447,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-11" role="tabpanel" aria-labelledby="pills-11-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-cuoi-ha-noi-mua-nao-dep/">
 								<img class="lazyload w-100" data-src="" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Kinh nghiệm chụp ảnh cưới</div>
 									<div class="time">
@@ -1359,14 +1468,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/phong-tuc-cuoi-hoi-nguoi-hoa/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2026/06/phong-tuc-cuoi-hoi-nguoi-hoa-1-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Kinh nghiệm cưới hỏi</div>
 									<div class="time">
@@ -1380,14 +1491,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/mau-tin-nhan-moi-dam-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2026/06/mau54-bthu-nen-22.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Kinh nghiệm cưới hỏi</div>
 									<div class="time">
@@ -1401,14 +1514,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/nguoi-xach-vali-cho-co-dau/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2026/06/nguoi-xach-vali-cho-co-dau-1.jpeg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Kinh nghiệm cưới hỏi</div>
 									<div class="time">
@@ -1422,14 +1537,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/mau-nail-chup-anh-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/mau-nail-chup-anh-cuoi-3-24.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Kinh nghiệm chụp ảnh cưới</div>
 									<div class="time">
@@ -1443,14 +1560,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/cong-cuoi-la-dua/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/cong-cuoi-la-dua-7.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Kinh nghiệm cưới hỏi</div>
 									<div class="time">
@@ -1463,6 +1582,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/cong-cuoi-la-dua/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1482,13 +1602,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-12" role="tabpanel" aria-labelledby="pills-12-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-gia-dinh-o-bien/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-gia-dinh-o-bien-17.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh gia đình</div>
 									<div class="time">
@@ -1502,14 +1623,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-gia-dinh-4-nguoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-gia-dinh-4-nguoi-8.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh gia đình</div>
 									<div class="time">
@@ -1523,14 +1646,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/studio-chup-anh-gia-dinh-dep/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/studio-chup-anh-gia-dinh-dep-6.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh gia đình</div>
 									<div class="time">
@@ -1544,14 +1669,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/trang-phuc-chup-anh-gia-dinh/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/12/Trang-phuc-chup-anh-gia-dinh-5.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh gia đình</div>
 									<div class="time">
@@ -1565,14 +1692,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-gia-dinh-5-nguoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-gia-dinh-5-nguoi-11.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh gia đình</div>
 									<div class="time">
@@ -1586,14 +1715,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/chup-anh-gia-dinh-ngoai-canh/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/chup-anh-gia-dinh-ngoai-canh-11.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Chụp ảnh gia đình</div>
 									<div class="time">
@@ -1606,6 +1737,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/chup-anh-gia-dinh-ngoai-canh/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1625,13 +1757,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-13" role="tabpanel" aria-labelledby="pills-13-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/thue-vay-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/thue-vay-cuoi.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin Váy Cưới</div>
 									<div class="time">
@@ -1645,14 +1778,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/vay-cuoi-han-quoc-2/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2025/02/vay-cuoi-han-quoc-2.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin Váy Cưới</div>
 									<div class="time">
@@ -1666,14 +1801,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/vay-cuoi-mau-den/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/03/vay-cuoi-mau-den-8.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin Váy Cưới</div>
 									<div class="time">
@@ -1687,14 +1824,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/tiem-vay-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/01/tiem-vay-cuoi-14.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin Váy Cưới</div>
 									<div class="time">
@@ -1708,14 +1847,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/vay-cuoi-di-ban/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/01/vay-cuoi-di-ban-13.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin Váy Cưới</div>
 									<div class="time">
@@ -1729,14 +1870,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/cach-trung-bay-vay-cuoi/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/01/trung-bay-ao-cuoi-5.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin Váy Cưới</div>
 									<div class="time">
@@ -1749,6 +1892,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/cach-trung-bay-vay-cuoi/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>
@@ -1768,13 +1912,14 @@
 				</div>
 								<div class="tab-pane fade " id="pills-14" role="tabpanel" aria-labelledby="pills-14-tab">
 					<div class="list_news list_home_news">
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/dieu-gi-khien-cac-cap-doi-tin-chon-mimosa-wedding-de-gui-gam-bo-anh-cuoi/">
 								<img class="lazyload w-100" data-src="" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -1788,14 +1933,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hau-truong-chup-anh-cuoi-lou-hoang-xoai-non/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2024/07/hau-truong-chup-anh-cuoi-xoai-non-lou-hoang-7.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Tin tức</div>
 									<div class="time">
@@ -1809,14 +1956,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/album-anh-cuoi-dep-dai-hoc-vin-uni-2023/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/Album-anh-cuoi-dep-dai-hoc-vin-uni-40.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Giới thiệu</div>
 									<div class="time">
@@ -1830,14 +1979,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/hot-a-hau-phuong-nga-va-binh-an-tung-bo-anh-cuoi-dep-nhu-mo-khien-fan-me-man/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/07/anh-cuoi-a-hau-phuong-nga-va-binh-an-1.jpg" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Giới thiệu</div>
 									<div class="time">
@@ -1851,14 +2002,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/33-mau-ao-khoa-vay-cuoi-trung-quoc-dep-hien-dai-moi-nhat/">
 								<img class="lazyload w-100" data-src="" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Giới thiệu</div>
 									<div class="time">
@@ -1872,14 +2025,16 @@
 								Xem thêm >>
 								</a>
 							</div>
+							</div>
 						</div>
-												<div class="item d-flex">
-							<div class="image">
+												<div class="item">
+							<div class="row g-3 align-items-start">
+							<div class="col-md-5 col-lg-4 image">
 								<a href="https://mimosawedding.vn/anh-vien-mimosa-bien-moi-khoanh-khac-thanh-vinh-cuu/">
 								<img class="lazyload w-100" data-src="https://mimosawedding.vn/wp-content/uploads/2023/08/100-y-tuong-va-concept-chup-anh-cuoi-khien-dan-tinh-ghen-ti-42.png" alt="">
 								</a>
 							</div>
-							<div class="content">
+							<div class="col-md-7 col-lg-8 content">
 								<div class="cate_time d-flex">
 									<div class="cate">Giới thiệu</div>
 									<div class="time">
@@ -1892,6 +2047,7 @@
 								<a class="readmore" href="https://mimosawedding.vn/anh-vien-mimosa-bien-moi-khoanh-khac-thanh-vinh-cuu/">
 								Xem thêm >>
 								</a>
+							</div>
 							</div>
 						</div>
 											</div>

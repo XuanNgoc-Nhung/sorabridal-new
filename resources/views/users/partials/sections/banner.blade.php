@@ -1,5 +1,6 @@
-            <div class="homeBanner section ">
-                <div class="slider-wrapper" id="slick-1">
+<div class="homeBanner section">
+    <div class="container-fluid px-0">
+        <div class="slider-wrapper" id="slick-1">
                     <div class="slider slide_banner slide_banner_desk">
                         <div class="slide">
                             <a href="" target="_blank">
@@ -42,5 +43,6 @@
 					</svg>
                         </div>
                     </div>
-                </div>
-            </div>
+        </div>
+    </div>
+</div>

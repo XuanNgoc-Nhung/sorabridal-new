@@ -1,11 +1,11 @@
 	<div class="app section_customer custommer_home" style="background-image: url('https://mimosawedding.vn/wp-content/uploads/2024/06/Concept-nang-tho-13.jpg');">
-		<div class="container_frame">
-			<header class="customer_section-header d-flex justify-content-between">
-				<div class="mimosa-title mb-5">
+		<div class="container container_frame">
+			<header class="customer_section-header row align-items-center justify-content-between g-4">
+				<div class="col-md-8 mimosa-title mb-5 mb-md-0">
 					<div class="customer_section">Chuyên mục khách hàng</div>
 					<div class="customer_section-name text-uppercase">MIMOSA WEDDING</div>
 				</div>
-				<div class="mimosa-imgHeader">
+				<div class="col-md-4 mimosa-imgHeader text-md-end">
 					<img class="lazyload" data-src="/wp-content/uploads/2024/06/main-img.png" alt="">
 				</div>
 			</header>
@@ -129,7 +129,7 @@
     </div>
     </div>
     <div class="background_customer lazyload">
-        <div class="container">
+        <div class="container container_frame">
             <div class="mimosa-bannerRate tab-content" id="pills-tabDressContent">
                 <div class="tab-pane fade in show active" id="allYear">
                     <ul class="row list list_collection list-unstyled">

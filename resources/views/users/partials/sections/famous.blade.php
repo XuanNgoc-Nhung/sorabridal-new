@@ -1,5 +1,5 @@
-        <div class="homeFamous section">
-            <div class="container_frame">
+<div class="homeFamous section">
+    <div class="container container_frame">
                 <div class="segContent">
                     <div class="sub" data-aos="fade-up">Gửi trọn niềm tin từ</div>
                     <h2 class="title" data-aos="fade-up">Những người nổi tiếng</h2>
@@ -81,17 +81,19 @@
                     </div>
                 </div>
             </div>
-            <div class="custom_col d-flex">
-                <div id="arrow_famous" class="d-flex"></div>
-                <div class="progress_col" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-                    <span class="slider__label sr-only">
-			</div>
-			<a href="/nguoi-noi-tieng" class="viewall">
-				Xem tất cả
-				<svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-					<path d="M9.16675 11.3334L12.5001 8.00002L9.16675 4.66669" stroke="#242424" stroke-linecap="round" stroke-linejoin="round"/>
-					<path d="M4.5 11.3334L7.83333 8.00002L4.5 4.66669" stroke="#242424" stroke-linecap="round" stroke-linejoin="round"/>
-				</svg>
-			</a>
-		</div>
-	</div>
+    <div class="container container_frame">
+        <div class="custom_col d-flex justify-content-center">
+            <div id="arrow_famous" class="d-flex"></div>
+            <div class="progress_col" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+                <span class="slider__label sr-only"></span>
+            </div>
+            <a href="/nguoi-noi-tieng" class="viewall">
+                Xem tất cả
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9.16675 11.3334L12.5001 8.00002L9.16675 4.66669" stroke="#242424" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M4.5 11.3334L7.83333 8.00002L4.5 4.66669" stroke="#242424" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>

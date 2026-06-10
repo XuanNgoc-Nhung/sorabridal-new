@@ -1,7 +1,7 @@
-	<div class="homeConnect section">
-		<img class="lazyload bck_conn" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/Rectangle-43.jpg" alt="">
-		<div class="container_frame">
-			<div class="row">
+<div class="homeConnect section position-relative">
+    <img class="lazyload bck_conn" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/Rectangle-43.jpg" alt="">
+    <div class="container container_frame position-relative">
+        <div class="row align-items-end g-3">
 				<div class="col-md-7">
 					<div class="segContent text-left">
 						<div class="sub_title" data-aos="fade-right">Kết nối</div>
@@ -224,5 +224,4 @@
             </div>
         </div>
     </div>
-    </div>
-    </div>
+</div>

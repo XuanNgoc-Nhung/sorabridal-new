@@ -1,5 +1,5 @@
-	<div class="homePartner section">
-		<div class="container_frame">
+<div class="homePartner section">
+    <div class="container container_frame">
 			<div class="list_logo" data-aos="fade-up">
 								<div class="item">
 					<a href="https://dantri.com.vn/giai-tri/mimosa-wedding-bat-mi-phong-cach-anh-cuoi-len-ngoi-nam-2022-20211216170137084.htm?fbclid=IwAR1BjjvaeLVWtmocIbAImwM7QctL8c5nnmFZiZiLqNDAeTRp5sB-U6tfjEI" class="logo" target="_blank">
@@ -67,5 +67,5 @@
 					</a>
 				</div>
 							</div>
-		</div>
-	</div>
+    </div>
+</div>
