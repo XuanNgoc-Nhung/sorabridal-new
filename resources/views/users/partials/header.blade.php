@@ -3,7 +3,7 @@
             <div class="left">
                 <ul class="d-flex list-unstyled p-0 m-0">
                     <li>
-                        <a href="/ve-chung-toi">Về chúng tôi +</a>
+                        <a href="/">Trang chủ</a>
                         <div class="sub_menu d-flex menu_dress menu_box">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
@@ -32,41 +32,7 @@
                         </div>
                     </li>
                     <li>
-                        <a href="/albums-anh-cuoi/">Albums đẹp +</a>
-                        <div class="sub_menu d-flex menu_album">
-                            <div class="img">
-                                <img class="lazyload img_menu" data-src="https://mimosawedding.vn/wp-content/uploads/2023/09/concept-anh-cuoi-dep-2023-1.jpg" alt="">
-                            </div>
-                            <ul class="m-0 p-0 list-unstyled">
-                                <li>
-                                    <a href="/albums-anh-cuoi" class="d-flex">
-                                        <div class="name">Tất cả albums</div>
-                                        <div class="count">68</div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="/albums-anh-cuoi/#7" class="d-flex" data-cate="7">
-                                        <div class="name">Phim trường</div>
-                                        <div class="count">28</div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="/albums-anh-cuoi/#8" class="d-flex" data-cate="8">
-                                        <div class="name">Studio</div>
-                                        <div class="count">21</div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="/albums-anh-cuoi/#9" class="d-flex" data-cate="9">
-                                        <div class="name">Ngoại cảnh</div>
-                                        <div class="count">43</div>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li>
-                        <a href="/goi-chup-anh-cuoi/">Gói chụp ảnh cưới +</a>
+                        <a href="/goi-chup-anh-cuoi/">Chụp ảnh cưới</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
@@ -80,10 +46,10 @@
                         </div>
                     </li>
                     <li>
-                        <a href="/concept/">New Concept</a>
+                        <a href="/concept/">Concept cưới</a>
                     </li>
                     <li>
-                        <a href="/trang-diem/">Trang điểm</a>
+                        <a href="/trang-diem/">Phóng sự</a>
                     </li>
                 </ul>
             </div>
@@ -95,7 +61,7 @@
             <div class="right">
                 <ul class="d-flex list-unstyled p-0 m-0">
                     <li>
-                        <a href="javascript:void(0)">Trang phục +</a>
+                        <a href="javascript:void(0)">Trang phục</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <div class="img">
@@ -147,7 +113,7 @@
                         </div>
                     </li>
                     <li>
-                        <a href="/khach-hang/">Khách hàng +</a>
+                        <a href="/khach-hang/">Trang điểm</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
@@ -161,7 +127,7 @@
                         </div>
                     </li>
                     <li>
-                        <a href="/khoa-hoc/">MIMOSA ACADEMY +</a>
+                        <a href="/khoa-hoc/">Dạy nghề</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
@@ -175,7 +141,7 @@
                         </div>
                     </li>
                     <li>
-                        <a href="/tin-tuc/">Blogs cưới +</a>
+                        <a href="/tin-tuc/">Tin tức</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
@@ -214,7 +180,7 @@
         <div class="menu_mobile">
             <div class="logo">
                 <a href="/">
-               <img class="lazyload logo" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/image-2.png" alt="">
+               <img class="lazyload logo" data-src="{{ asset('assets/mimosa/images/logo.png') }}" alt="">
                </a>
             </div>
             <span class="animated-icon1">

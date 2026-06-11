@@ -5,7 +5,6 @@
         <section class="w-100">
             @include('users.partials.sections.banner')
         </section>
-
         <div class="home-sections">
             @include('users.partials.sections.brand')
             @include('users.partials.sections.service')
