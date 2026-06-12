@@ -4502,6 +4502,13 @@ form.sent .wpcf7-response-output {
   .menu_mobile .logo {
     z-index: 9999;
   }
+  .menu_mobile .menu_vertical {
+    justify-content: flex-start;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
   .menu_mobile .menu_vertical .pattern {
     position: absolute;
     transform: translate(-50%, -50%);
