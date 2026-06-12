@@ -36,6 +36,8 @@
   --section-title-font: var(--font-sub);
   --section-title-size: 2.25rem;
   --message-list-size: 1.25rem;
+  --floating-btn-bottom: 30px;
+  --floating-btn-side: 30px;
 }
 
 body {
@@ -3682,12 +3684,45 @@ form.sent .wpcf7-response-output {
 
 .cta_page {
   position: fixed;
-  bottom: 15px;
-  left: 30px;
+  bottom: var(--floating-btn-bottom);
+  left: var(--floating-btn-side);
   z-index: 9999;
 }
-.cta_page .item {
-  position: relative;
+.cta_page__panel {
+  position: absolute;
+  bottom: calc(100% + 14px);
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(16px);
+  transform-origin: bottom left;
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+  pointer-events: none;
+}
+.cta_page__channel {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px 10px 10px;
+  background: #fff;
+  border-radius: 50px;
+  box-shadow: 0 4px 24px rgba(36, 36, 36, 0.14);
+  text-decoration: none;
+  color: var(--color-dark);
+  min-width: 240px;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.25s ease, transform 0.25s ease, box-shadow 0.2s ease;
+}
+.cta_page__channel:hover {
+  box-shadow: 0 6px 28px rgba(36, 36, 36, 0.18);
+  transform: translateY(0);
+}
+.cta_page__channel-icon {
+  flex-shrink: 0;
   width: 40px;
   height: 40px;
   background: var(--color-yellow);
@@ -3695,11 +3730,55 @@ form.sent .wpcf7-response-output {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 25px;
+  color: var(--color-dark);
+}
+.cta_page__channel-icon i {
+  font-size: 18px;
+  line-height: 1;
+}
+.cta_page__channel-icon .cta-icon-img {
+  width: 20px;
+  height: 20px;
+}
+.cta_page__channel-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.cta_page__channel-title {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--color-dark);
+}
+.cta_page__channel-desc {
+  font-size: 12px;
+  line-height: 1.35;
+  color: rgba(36, 36, 36, 0.65);
+}
+.cta_page__trigger.item {
+  position: relative;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  background: var(--color-yellow);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
   box-shadow: 0 0 0 5px rgba(225, 161, 70, 0.35);
   overflow: visible;
+  border: 0;
+  padding: 0;
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.35s ease;
 }
-.cta_page .item .cta-ripple__ring {
+.cta_page.is-open .cta_page__trigger.item {
+  transform: scale(1.05);
+  box-shadow: 0 0 0 5px rgba(225, 161, 70, 0.2);
+}
+.cta_page__trigger .cta-ripple__ring {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -3712,8 +3791,12 @@ form.sent .wpcf7-response-output {
   animation: cta-ripple 2.4s ease-out infinite;
   pointer-events: none;
 }
-.cta_page .item .cta-ripple__ring--delay {
+.cta_page__trigger .cta-ripple__ring--delay {
   animation-delay: 1.2s;
+}
+.cta_page.is-open .cta_page__trigger .cta-ripple__ring {
+  opacity: 0;
+  animation: none;
 }
 @keyframes cta-ripple {
   0% {
@@ -3725,7 +3808,7 @@ form.sent .wpcf7-response-output {
     opacity: 0;
   }
 }
-.cta_page .item a {
+.cta_page__toggle {
   position: relative;
   z-index: 1;
   display: flex;
@@ -3733,29 +3816,66 @@ form.sent .wpcf7-response-output {
   justify-content: center;
   width: 100%;
   height: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
   color: var(--color-dark);
-  text-decoration: none;
+  cursor: pointer;
 }
-.cta_page .item a i {
+.cta_page__toggle-icon {
+  position: relative;
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+.cta_page__toggle-icon i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
   font-size: 18px;
   line-height: 1;
-  transition: transform 0.75s ease;
+  transition: opacity 0.3s ease, transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
-.cta_page .item a .cta-icon-img {
-  width: 20px;
-  height: 20px;
-  color: var(--color-dark);
-  transition: transform 0.75s ease;
+.cta_page__icon-support {
+  opacity: 1;
+  transform: translate(-50%, -50%) rotate(0deg) scale(1);
 }
-.cta_page .item:hover a i,
-.cta_page .item:hover a .cta-icon-img {
-  transform: scale(1.1);
+.cta_page__icon-close {
+  opacity: 0;
+  transform: translate(-50%, -50%) rotate(-90deg) scale(0.4);
+}
+.cta_page.is-open .cta_page__icon-support {
+  opacity: 0;
+  transform: translate(-50%, -50%) rotate(90deg) scale(0.4);
+}
+.cta_page.is-open .cta_page__icon-close {
+  opacity: 1;
+  transform: translate(-50%, -50%) rotate(0deg) scale(1);
+}
+.cta_page.is-open .cta_page__panel {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.cta_page.is-open .cta_page__channel {
+  opacity: 1;
+  transform: translateY(0);
+}
+.cta_page.is-open .cta_page__channel:nth-child(3) {
+  transition-delay: 0.05s;
+}
+.cta_page.is-open .cta_page__channel:nth-child(2) {
+  transition-delay: 0.12s;
+}
+.cta_page.is-open .cta_page__channel:nth-child(1) {
+  transition-delay: 0.19s;
 }
 
 #button_toptop {
   position: fixed;
-  bottom: 15px;
-  right: 30px;
+  bottom: var(--floating-btn-bottom);
+  right: var(--floating-btn-side);
   z-index: 9999;
   width: 40px;
   height: 40px;
@@ -3764,12 +3884,20 @@ form.sent .wpcf7-response-output {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 25px;
-  box-shadow: 0 0px 0px 5px rgba(225, 161, 70, 0.5411764706);
+  margin-bottom: 0;
+  box-shadow: 0 0 0 5px rgba(225, 161, 70, 0.35);
+  cursor: pointer;
 }
 
 @media (max-width: 640px) {
-  
+  :root {
+    --floating-btn-bottom: 15px;
+    --floating-btn-side: 15px;
+  }
+  .cta_page__channel {
+    min-width: 210px;
+    padding: 8px 12px 8px 8px;
+  }
   .page_detail_feedback{
     padding-top: 100px !IMPORTANT;
     padding-bottom: 60px !IMPORTANT;

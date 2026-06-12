@@ -31,6 +31,32 @@
                 scrollTop: 0
             }, '300');
         });
+
+        var $ctaSupport = $('#cta_support');
+        var $ctaToggle = $ctaSupport.find('.cta_page__toggle');
+        var $ctaPanel = $ctaSupport.find('.cta_page__panel');
+
+        function setCtaSupportOpen(isOpen) {
+            $ctaSupport.toggleClass('is-open', isOpen);
+            $ctaToggle.attr('aria-expanded', isOpen);
+            $ctaPanel.attr('aria-hidden', !isOpen);
+            $ctaToggle.attr('aria-label', isOpen ? 'Đóng hỗ trợ' : 'Hỗ trợ khách hàng');
+        }
+
+        $ctaToggle.on('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            setCtaSupportOpen(!$ctaSupport.hasClass('is-open'));
+        });
+
+        $(document).on('click', function(e) {
+            if (!$ctaSupport.hasClass('is-open')) {
+                return;
+            }
+            if (!$(e.target).closest('#cta_support').length) {
+                setCtaSupportOpen(false);
+            }
+        });
     </script>
     <script type="speculationrules">
         {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/mimosa/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch,

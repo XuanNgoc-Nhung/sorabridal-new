@@ -127,30 +127,48 @@
             </div>
         </div>
     </div>
-    <div class="cta_page">
-        <div class="item">
-            <span class="cta-ripple__ring" aria-hidden="true"></span>
-            <span class="cta-ripple__ring cta-ripple__ring--delay" aria-hidden="true"></span>
-            <a target="_blank" href="https://m.me/anhvienmimosa" aria-label="Messenger">
-                <i class="fa-brands fa-facebook-messenger"></i>
+    <div class="cta_page" id="cta_support">
+        <div class="cta_page__panel" id="cta_support_panel" aria-hidden="true">
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://m.me/anhvienmimosa">
+                <span class="cta_page__channel-icon">
+                    <i class="fa-brands fa-facebook-messenger"></i>
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">Messenger</span>
+                    <span class="cta_page__channel-desc">Chat trực tiếp</span>
+                </span>
+            </a>
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://zalo.me/0978886133">
+                <span class="cta_page__channel-icon">
+                    <img class="cta-icon-img" src="{{ asset('assets/mimosa/images/zalo-icon.svg') }}" alt="" width="20" height="20">
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">Zalo</span>
+                    <span class="cta_page__channel-desc">Nhắn tin Zalo 24/7</span>
+                </span>
+            </a>
+            <a class="cta_page__channel" href="tel:0815888333">
+                <span class="cta_page__channel-icon">
+                    <i class="fa-solid fa-phone"></i>
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">Hotline</span>
+                    <span class="cta_page__channel-desc">0815.888.333</span>
+                </span>
             </a>
         </div>
-        <div class="item">
+        <div class="cta_page__trigger item">
             <span class="cta-ripple__ring" aria-hidden="true"></span>
             <span class="cta-ripple__ring cta-ripple__ring--delay" aria-hidden="true"></span>
-            <a target="_blank" href="https://zalo.me/0978886133" aria-label="Zalo">
-                <img class="cta-icon-img" src="{{ asset('assets/mimosa/images/zalo-icon.svg') }}" alt="" width="20" height="20">
-            </a>
-        </div>
-        <div class="item">
-            <span class="cta-ripple__ring" aria-hidden="true"></span>
-            <span class="cta-ripple__ring cta-ripple__ring--delay" aria-hidden="true"></span>
-            <a href="tel:0815.888.333" aria-label="Gọi điện">
-                <i class="fa-solid fa-phone"></i>
-            </a>
+            <button type="button" class="cta_page__toggle" aria-expanded="false" aria-controls="cta_support_panel" aria-label="Hỗ trợ khách hàng">
+                <span class="cta_page__toggle-icon" aria-hidden="true">
+                    <i class="fa-solid fa-headset cta_page__icon-support"></i>
+                    <i class="fa-solid fa-xmark cta_page__icon-close"></i>
+                </span>
+            </button>
         </div>
     </div>
-    <div class="item" id="button_toptop" style="cursor: pointer;">
+    <div class="item" id="button_toptop">
         <a aria-label="Lên đầu trang">
            <svg width="16" height="20" viewBox="0 0 16 27" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M8.78913 0.284035C8.38492 -0.0923017 7.75215 -0.069703 7.37582 0.334511L1.24305 6.92156C0.866714 7.32577 0.889313 7.95853 1.29353 8.33487C1.69774 8.71121 2.3305 8.68861 2.70684 8.28439L8.15819 2.42924L14.0133 7.88059C14.4176 8.25693 15.0503 8.23433 15.4267 7.83011C15.803 7.4259 15.7804 6.79314 15.3762 6.4168L8.78913 0.284035ZM9.99936 25.9643L9.10707 0.980238L7.10835 1.05162L8.00064 26.0357L9.99936 25.9643Z" fill="black"/>
