@@ -24,12 +24,18 @@
   }
 }
 :root {
-  --color-yellow: #e3578f;
+  --color-primary: #e3578f;
+  --color-yellow: var(--color-primary);
   --color-dark: #242424;
   --bg-theme: #fdf2f6;
   --font-sub: "Housttely";
   --font-body: "Nunito", sans-serif;
+  --font-script: "Dancing Script", cursive;
   --color-pink: #fcb2cf;
+  --section-title-color: var(--color-primary);
+  --section-title-font: var(--font-sub);
+  --section-title-size: 2.25rem;
+  --message-list-size: 1.25rem;
 }
 
 body {
@@ -39,6 +45,32 @@ body {
 .sub_title {
   font-family: var(--font-sub);
   font-size: 2.5rem;
+}
+
+.section-title {
+  font-family: var(--section-title-font);
+  font-size: var(--section-title-size);
+  margin-bottom: 1.5rem;
+  color: var(--section-title-color);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.message-list li {
+  font-family: var(--font-script);
+  font-size: var(--message-list-size);
+  font-weight: 500;
+  line-height: 1.65;
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  :root {
+    --message-list-size: 1.1rem;
+  }
+
+  .message-list li {
+    line-height: 1.5;
+  }
 }
 
 .btn_theme {
@@ -281,7 +313,7 @@ body {
 }
 
 .list_reason article li {
-  font-family: "Dancing Script", cursive;
+  font-family: var(--font-script);
   font-size: 18px;
   font-weight: 400;
 }
@@ -3773,6 +3805,9 @@ form.sent .wpcf7-response-output {
   }
   .sub_title {
     font-size: 2rem;
+  }
+  .section-title {
+    font-size: 1.875rem;
   }
   .homePartner {
     margin-bottom: 0;

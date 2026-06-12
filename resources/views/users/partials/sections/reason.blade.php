@@ -5,7 +5,7 @@
 
         <div data-slick="reason" data-aos="fade-up">
             <div>
-                <p class="fs-3 mb-4 text-dark text-center">Từ trái tim Sora</p>
+                <p class="section-title">Từ trái tim Sora</p>
                 <div class="row align-items-center g-4">
                     <div class="col-12 col-md-6">
                         <img class="lazyload img-fluid rounded w-100"
@@ -13,15 +13,13 @@
                             alt="">
                     </div>
                     <div class="col-12 col-md-6">
-                        <h2 class="h2 fw-semibold mb-4">Lời nhắn đầu tiên</h2>
-                        <ul class="list-unstyled mb-4">
-                            <li class="mb-3">
-                                <span>Cam kết chất lượng và tâm huyết: Tại Sora Bridal, chúng tôi không chỉ thực hiện một bộ
-                                    ảnh hay một lễ cưới, mà đặt trọn tâm huyết như đang chăm chút cho ngày trọng đại
-                                    của chính mình. Mỗi trải nghiệm và từng sản phẩm đến tay khách hàng đều là sự
-                                    kết tinh hoàn hảo nhất cho khoảnh khắc hạnh phúc của hai bạn.</span>
+                        <h2 class="h2 fw-semibold mb-3">Lời nhắn đầu tiên</h2>
+                        <ul class="list-unstyled mb-4 message-list">
+                            <li >
+                                <span>Cam kết chất lượng và tâm huyết: Sora Bridal đặt trọn tâm huyết vào mỗi bộ ảnh và lễ cưới,
+                                    mang đến trải nghiệm hoàn hảo cho khoảnh khắc hạnh phúc của hai bạn.</span>
                             </li>
-                            <li class="mb-3">
+                            <li >
                                 <span>Thế mạnh thương hiệu & hệ sinh thái: Bên cạnh đó,
                                     Sora Bridal – Tận Tâm, Trách Nhiệm, Phát Triển Sorabridal là một trong những
                                     thương hiệu chụp ảnh cưới đẹp và lớn hàng đầu tại Hà Nội, sở hữu hệ sinh thái
@@ -29,7 +27,7 @@
                                     trội như tiết kiệm chi phí, tiết kiệm thời gian và nhiều bối cảnh đẹp
                                     mắt.</span>
                             </li>
-                            <li class="mb-3">
+                            <li>
                                 <span>Đội ngũ và tinh thần sáng tạo: Với đội ngũ nhân sự
                                     trẻ trung, năng động, chuyên nghiệp và giàu kinh nghiệm, Sora Bridal luôn sáng
                                     tạo, nỗ lực không ngừng để hướng đến sự hoàn hảo, phục vụ khách hàng tốt nhất và
