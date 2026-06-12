@@ -14,6 +14,7 @@
         <div class="section-band">@include('users.partials.sections.film_set')</div>
         <div class="section-band">@include('users.partials.sections.address')</div>
         <div class="section-band">@include('users.partials.sections.post_production')</div>
+        <div class="section-band">@include('users.partials.sections.consultation')</div>
         <div class="section-band">@include('users.partials.sections.collection-video')</div>
         <div class="section-band">@include('users.partials.sections.collection-tiktok')</div>
         <div class="section-band">@include('users.partials.sections.concept')</div>
