@@ -539,6 +539,73 @@ $(window).on('load',
         prevArrow: '<div class="arrow"><svg width="22" height="8" viewBox="0 0 22 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 4L6 0.5359L6 7.4641L0 4ZM22 4.6L5.4 4.6L5.4 3.4L22 3.4L22 4.6Z" fill="#fff" fill-opacity="0.6"/></svg></div>',
       });
 
+      function initBeforeAfterSliders() {
+        document.querySelectorAll('[data-ba-slider]').forEach(function (slider) {
+          if (slider.dataset.baInit) {
+            return;
+          }
+          slider.dataset.baInit = '1';
+
+          var beforeWrap = slider.querySelector('.ba-slider__before');
+          var beforeImg = slider.querySelector('.ba-slider__img--before');
+          var handle = slider.querySelector('.ba-slider__handle');
+          var percent = 50;
+          var isDragging = false;
+
+          function update() {
+            var w = slider.offsetWidth;
+            beforeWrap.style.width = percent + '%';
+            handle.style.left = percent + '%';
+            beforeImg.style.width = w + 'px';
+          }
+
+          function setPercentFromX(clientX) {
+            var rect = slider.getBoundingClientRect();
+            var x = clientX - rect.left;
+            percent = Math.max(0, Math.min(100, (x / rect.width) * 100));
+            update();
+          }
+
+          function onPointerDown(e) {
+            isDragging = true;
+            setPercentFromX(e.touches ? e.touches[0].clientX : e.clientX);
+            e.preventDefault();
+          }
+
+          function onPointerMove(e) {
+            if (!isDragging) {
+              return;
+            }
+            setPercentFromX(e.touches ? e.touches[0].clientX : e.clientX);
+            e.preventDefault();
+          }
+
+          function onPointerUp() {
+            isDragging = false;
+          }
+
+          slider.addEventListener('mousedown', onPointerDown);
+          slider.addEventListener('touchstart', onPointerDown, { passive: false });
+          window.addEventListener('mousemove', onPointerMove);
+          window.addEventListener('touchmove', onPointerMove, { passive: false });
+          window.addEventListener('mouseup', onPointerUp);
+          window.addEventListener('touchend', onPointerUp);
+
+          update();
+          window.addEventListener('resize', update);
+          slider.querySelectorAll('img').forEach(function (img) {
+            img.addEventListener('load', update);
+          });
+          document.addEventListener('lazyloaded', function (e) {
+            if (slider.contains(e.target)) {
+              update();
+            }
+          });
+        });
+      }
+
+      initBeforeAfterSliders();
+
       // parallax scroll
       // const scroller = new LocomotiveScroll({
       //   el: document.querySelector('[]'),
