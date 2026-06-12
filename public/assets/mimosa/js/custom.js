@@ -404,6 +404,39 @@ $(window).on('load',
         }, startIndex);
       });
 
+      const listHomeNews = $('[data-slick="home-news"]');
+      const slickOptionsHomeNews = {
+        ...optionSlick3,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        appendArrows: $('#arrow_home_news'),
+        nextArrow: '<div class="arrow"><svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.11108 1.44446L6.16664 6.50001L1.11108 11.5556" stroke="#242424" stroke-width="1.44444"/></svg></div>',
+        prevArrow: '<div class="arrow"><svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"><path opacity="0.3" d="M6.88867 11.5555L1.83312 6.49999L6.88867 1.44443" stroke="#242424" stroke-width="1.44444"/></svg></div>',
+        responsive: [
+          {
+            breakpoint: 991,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 575,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      };
+      (listHomeNews.length > 0) && listHomeNews.slick(slickOptionsHomeNews);
+
+      listHomeNews.on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+        var calc = slick.slideCount > 1 ? ((nextSlide) / (slick.slideCount - 1)) * 100 : 0;
+        $('#section-news .progress_home_news').css('width', calc + '%').attr('aria-valuenow', calc);
+      });
+
       var list_reason = $('[data-slick="reason"]').slick({
         ...optionSlick1,
         arrows: true,

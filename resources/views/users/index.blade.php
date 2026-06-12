@@ -6,8 +6,8 @@
     </div>
 
     <div class="d-flex flex-column home-sections">
-        {{-- @include('users.partials.sections.brand') --}}
-        {{-- @include('users.partials.sections.service') --}}
+        {{-- @include('users.partials.sections.brand')
+        @include('users.partials.sections.service') --}}
         <div class="section-band">@include('users.partials.sections.open_letter')</div>
         <div class="section-band">@include('users.partials.sections.reason')</div>
         <div class="section-band">@include('users.partials.sections.collection')</div>
@@ -16,7 +16,8 @@
         <div class="section-band">@include('users.partials.sections.post_production')</div>
         <div class="section-band">@include('users.partials.sections.consultation')</div>
         <div class="section-band">@include('users.partials.sections.customer_feedback')</div>
-        <div class="section-band">@include('users.partials.sections.collection-video')</div>
+        <div class="section-band">@include('users.partials.sections.home_news')</div>
+        {{-- <div class="section-band">@include('users.partials.sections.collection-video')</div>
         <div class="section-band">@include('users.partials.sections.collection-tiktok')</div>
         <div class="section-band">@include('users.partials.sections.concept')</div>
         <div class="section-band">@include('users.partials.sections.famous')</div>
@@ -24,6 +25,6 @@
         <div class="section-band">@include('users.partials.sections.feedback')</div>
         <div class="section-band">@include('users.partials.sections.news')</div>
         <div class="section-band">@include('users.partials.sections.partner')</div>
-        <div class="section-band">@include('users.partials.sections.connect')</div>
+        <div class="section-band">@include('users.partials.sections.connect')</div> --}}
     </div>
 @endsection
