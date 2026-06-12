@@ -2,9 +2,9 @@
         <div class="main_menu">
             <div class="left">
                 <ul class="d-flex list-unstyled p-0 m-0">
-                    <li>
+                    {{-- <li>
                         <a href="/">Trang chủ</a>
-                    </li>
+                    </li> --}}
                     <li>
                         <a href="/goi-chup-anh-cuoi/">Chụp ảnh cưới</a>
                         <div class="sub_menu d-flex menu_dress">
@@ -249,9 +249,9 @@
                 <li>
                     <a href="/danh-sach-video?id=0">Video</a>
                 </li>
-                <li>
+                {{-- <li>
                     <a href="/trang-diem/">Trang điểm</a>
-                </li>
+                </li> --}}
                 <li class="haschild">
                     <div class="accordion accordion-flush" id="accordionFlushDress">
                         <div class="accordion-item">

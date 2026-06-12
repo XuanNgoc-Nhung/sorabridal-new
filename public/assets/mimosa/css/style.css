@@ -4552,8 +4552,39 @@ form.sent .wpcf7-response-output {
 
 }
 @media (max-width: 1332px) {
-	.main_menu a{
-		padding: 6px;
+	.main_menu a {
+		padding: 6px 4px;
+		font-size: 17px;
+	}
+}
+@media (max-width: 1199.98px) and (min-width: 641px) {
+	.menu_header {
+		padding: 0 15px;
+	}
+	.main_menu a {
+		font-size: 15px;
+		padding: 6px 3px;
+	}
+	.main_menu .logo {
+		width: 110px;
+		height: auto;
+		max-height: 52px;
+	}
+	.main_menu .sub_menu li a {
+		font-size: 15px;
+	}
+}
+@media (max-width: 991.98px) and (min-width: 641px) {
+	.main_menu a {
+		font-size: 13px;
+		padding: 5px 2px;
+	}
+	.main_menu .logo {
+		width: 90px;
+		max-height: 44px;
+	}
+	.main_menu .sub_menu li a {
+		font-size: 14px;
 	}
 }
 @media (min-width: 640px) {
