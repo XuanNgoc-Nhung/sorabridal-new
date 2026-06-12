@@ -11,6 +11,7 @@
         <div class="section-band">@include('users.partials.sections.open_letter')</div>
         <div class="section-band">@include('users.partials.sections.reason')</div>
         <div class="section-band">@include('users.partials.sections.collection')</div>
+        <div class="section-band">@include('users.partials.sections.film_set')</div>
         <div class="section-band">@include('users.partials.sections.collection-video')</div>
         <div class="section-band">@include('users.partials.sections.collection-tiktok')</div>
         <div class="section-band">@include('users.partials.sections.concept')</div>
