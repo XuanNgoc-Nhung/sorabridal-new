@@ -12,6 +12,7 @@
     <script type="text/javascript" src="{{ asset('assets/mimosa/js/lazysizes.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/mimosa/js/ls.unveilhooks.min.js') }}"></script>
     <!-- custom -->
+    <script src="{{ asset('assets/mimosa/js/wowslider-banner.js') }}"></script>
     <script src="{{ asset('assets/mimosa/js/custom.js') }}"></script>
     <script>
         var btn = $('#button_toptop');
