@@ -17,24 +17,23 @@
 
 <section id="section-collection" class="py-5 overflow-hidden">
     <div class="container-xl">
-        <div class="text-center text-uppercase mx-auto mb-4 col-lg-8">
-            <p class="small text-muted mb-2" data-aos="fade-up">say đắm câu chuyện tình yêu trong</p>
-            <h2 class="h2 fw-medium mb-0" data-aos="fade-up">Những bộ sưu tập ấn tượng</h2>
+        <div class="text-center text-uppercase mx-auto mb-4 col-lg-8 section-title-wrapper">
+            <p class="section-title" data-aos="fade-up">Những bộ sưu tập ấn tượng</p>
+            <p class="section-description" data-aos="fade-up">say đắm câu chuyện tình yêu trong</p>
         </div>
-
         <div class="tab-content" id="pills-tabContent" data-aos="fade-up">
             <div class="tab-pane fade show active" id="pills-videos" role="tabpanel" aria-labelledby="pills-videos-tab">
                 <div data-slick="collection">
                     @foreach ($albums as $album)
                         <div class="px-2">
-                            <div class="card border-0 h-100">
-                                <img class="lazyload card-img-top w-100 object-fit-cover" style="height: 284px;"
-                                    data-src="{{ $album['img'] }}" alt="{{ $album['title'] }}">
-                                <div class="card-body text-center">
-                                    <h3 class="h6 card-title text-uppercase">
-                                        <a href="{{ $album['url'] }}" class="text-decoration-none text-dark stretched-link">{{ $album['title'] }}</a>
-                                    </h3>
-                                    <a href="{{ $album['url'] }}" class="btn btn-outline-dark btn-sm rounded-pill mt-2 position-relative">VIEW GALLERY</a>
+                            <div class="collection-card h-100">
+                                <div class="collection-card__media">
+                                    <img class="lazyload collection-card__img w-100 object-fit-cover"
+                                        data-src="{{ $album['img'] }}" alt="{{ $album['title'] }}">
+                                    <div class="collection-card__overlay">
+                                        <p class="collection-card__desc">{{ $album['title'] }}</p>
+                                        <a href="{{ $album['url'] }}" class="collection-card__btn btn btn-outline-light btn-sm rounded-pill">Chi tiết</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>

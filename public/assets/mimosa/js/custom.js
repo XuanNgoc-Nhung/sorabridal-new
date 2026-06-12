@@ -229,24 +229,52 @@ $(window).on('load',
 
 
       const slickOptionsCol = {
-        rows: 2,
         ...optionSlick3,
+        slidesToShow: 5,
+        slidesToScroll: 1,
         arrows: true,
         appendArrows: $('#arrow_col'),
         nextArrow: '<div class="arrow"><svg width="22" height="8" viewBox="0 0 22 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22 4L16 0.5359L16 7.4641L22 4ZM-5.24537e-08 4.6L16.6 4.6L16.6 3.4L5.24537e-08 3.4L-5.24537e-08 4.6Z" fill="#141414" fill-opacity="0.6"/></svg></div>',
         prevArrow: '<div class="arrow"><svg width="22" height="8" viewBox="0 0 22 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 4L6 0.5359L6 7.4641L0 4ZM22 4.6L5.4 4.6L5.4 3.4L22 3.4L22 4.6Z" fill="#141414" fill-opacity="0.6"/></svg></div>',
         responsive: [
           {
-            breakpoint: 640,
+            breakpoint: 991,
             settings: {
-              rows: 4,
-              slidesToShow: 1,
+              slidesToShow: 4,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 767,
+            settings: {
+              slidesToShow: 2,
               slidesToScroll: 1
             }
           }
         ]
       };
       (list_col.length > 0) && list_col.slick(slickOptionsCol);
+
+      $('#section-collection').on('click', '.collection-card__media', function (e) {
+        if ($(e.target).closest('a').length) {
+          return;
+        }
+        if (!window.matchMedia('(hover: none)').matches) {
+          return;
+        }
+        var $card = $(this).closest('.collection-card');
+        var wasActive = $card.hasClass('is-active');
+        $('#section-collection .collection-card').removeClass('is-active');
+        if (!wasActive) {
+          $card.addClass('is-active');
+        }
+      });
+
+      $(document).on('click', function (e) {
+        if (!$(e.target).closest('#section-collection .collection-card').length) {
+          $('#section-collection .collection-card').removeClass('is-active');
+        }
+      });
       (tabs_col.length > 0) && tabs_col.on('shown.bs.tab', function () {
         (list_col.length > 0) && list_col.slick('setPosition');
       });
