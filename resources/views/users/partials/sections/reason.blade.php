@@ -5,6 +5,7 @@
 
         <div data-slick="reason" data-aos="fade-up">
             <div>
+                <p class="fs-3 mb-4 text-dark text-center">Từ trái tim Sora</p>
                 <div class="row align-items-center g-4">
                     <div class="col-12 col-md-6">
                         <img class="lazyload img-fluid rounded w-100"
@@ -12,7 +13,6 @@
                             alt="">
                     </div>
                     <div class="col-12 col-md-6">
-                        <p class="fs-3 mb-2 text-dark">Từ trái tim Sora</p>
                         <h2 class="h2 fw-semibold mb-4">Lời nhắn đầu tiên</h2>
                         <ul class="list-unstyled mb-4">
                             <li class="mb-3">

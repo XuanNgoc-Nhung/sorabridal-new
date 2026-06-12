@@ -6,7 +6,7 @@
     ];
 @endphp
 
-<section id="section-banner" class="w-100 overflow-hidden px-4 pb-4 position-relative">
+<section id="section-banner" class="w-100 overflow-hidden px-0 pb-4 position-relative">
     <div class="container-fluid px-0">
         <div id="wowslider-container" class="wowslider-banner">
             <div class="ws_images">
