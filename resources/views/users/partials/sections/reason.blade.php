@@ -3,16 +3,17 @@
         <img class="lazyload pattern" data-src="/wp-content/uploads/2023/05/Group.png" alt="">
         <div class="list_reason" data-aos="fade-up">
             <div class="item">
-                <div class="row align-items-center g-4">
-                    <div class="col-24 text-center">
-                        <div class="sub_title">Từ trái tim Sora</div>
-                    </div>
-                    <div class="col-md-6 image">
+                <div class="row align-items-center g-4 reason-row">
+                    <div class="col-12 col-md-6 image">
                         <img class="lazyload"
                             data-src="https://mimosawedding.vn/wp-content/uploads/2023/06/z4468093140804_a1101df418bb6701eb18db5cf8d13cb0.jpg"
                             alt="">
                     </div>
-                    <div class="col-md-6 content">
+                    <div class="col-12 col-md-6 content">
+                        <div class="reason-subtitle">
+                            <div class="sub_title">Từ trái tim Sora</div>
+                        </div>
+                        <div class="reason-message">
                         <h2 class="title">Lời nhắn đầu tiên</h2>
                         <article>
                             <ul>
@@ -33,7 +34,11 @@
                                         chu đáo.</span></li>
                             </ul>
                         </article>
-                        <p>Đỗ Anh Tuấn <span>(CEO Sorabridal)</span> </p>
+                        <p class="ceo-signature">
+                            <span class="ceo-name">Đỗ Anh Tuấn</span>
+                            <span class="ceo-title">(CEO Sorabridal)</span>
+                        </p>
+                        </div>
                     </div>
                 </div>
             </div>

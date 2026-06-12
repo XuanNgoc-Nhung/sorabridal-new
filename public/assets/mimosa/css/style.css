@@ -299,17 +299,52 @@ body {
   outline: none;
 }
 .list_reason .item .image {
-  flex: 0 0 45%;
+  max-width: 100%;
+  min-width: 0;
 }
 .list_reason .item .image img {
-  width: 660px;
-  height: 452px;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 660 / 452;
   -o-object-fit: cover;
   object-fit: cover;
 }
 .list_reason .item .content {
   flex: 1;
   padding: 0 1rem 0 5rem;
+}
+.list_reason .reason-subtitle {
+  margin-bottom: 0.5rem;
+}
+@media (max-width: 767.98px) {
+  .list_reason .reason-row {
+    display: flex;
+    flex-direction: column;
+  }
+  .list_reason .reason-row .content {
+    display: contents;
+  }
+  .list_reason .reason-subtitle {
+    order: 1;
+    width: 100%;
+    text-align: center;
+    padding: 0 15px;
+    margin-bottom: 0.5rem;
+  }
+  .list_reason .reason-row .image {
+    order: 2;
+  }
+  .list_reason .reason-message {
+    order: 3;
+    width: 100%;
+    padding: 0 3rem 0 15px;
+    margin-bottom: 2rem;
+  }
+  .list_reason .title {
+    margin-left: 0;
+  }
 }
 .list_reason .ceo-signature {
   margin-top: 1.5rem;
@@ -341,6 +376,8 @@ body {
   right: 0;
   top: -70px;
   width: 250px;
+  max-width: 40%;
+  height: auto;
   transform: rotate(26deg);
 }
 .homeReason .custom_feed {
@@ -3818,22 +3855,11 @@ form.sent .wpcf7-response-output {
   .list_reason .title {
     font-size: 1.75rem;
   }
-  .list_reason .item {
-    flex-flow: column-reverse;
-  }
-  .list_reason .item .content {
-    padding: 0 3rem 0 15px;
-    margin-bottom: 2rem;
-  }
   .list_reason .item .content ul {
     padding: 0;
   }
   .list_reason .ceo-name {
     font-size: 18px;
-  }
-  .list_reason .item .image img {
-    width: 100% !important;
-    height: auto !important;
   }
   .homeReason {
     padding: 60px 0;
