@@ -284,6 +284,60 @@ $(window).on('load',
         setSliderProgress(calc);
       });
 
+      const list_address = $('[data-slick="address"]');
+      const slickOptionsAddress = {
+        ...optionSlick3,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        arrows: true,
+        appendArrows: $('#arrow_address'),
+        nextArrow: '<div class="arrow"><svg width="22" height="8" viewBox="0 0 22 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22 4L16 0.5359L16 7.4641L22 4ZM-5.24537e-08 4.6L16.6 4.6L16.6 3.4L5.24537e-08 3.4L-5.24537e-08 4.6Z" fill="#141414" fill-opacity="0.6"/></svg></div>',
+        prevArrow: '<div class="arrow"><svg width="22" height="8" viewBox="0 0 22 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 4L6 0.5359L6 7.4641L0 4ZM22 4.6L5.4 4.6L5.4 3.4L22 3.4L22 4.6Z" fill="#141414" fill-opacity="0.6"/></svg></div>',
+        responsive: [
+          {
+            breakpoint: 991,
+            settings: {
+              slidesToShow: 4,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 767,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      };
+      (list_address.length > 0) && list_address.slick(slickOptionsAddress);
+
+      $('#section-address').on('click', '.collection-card__media', function (e) {
+        if ($(e.target).closest('a').length) {
+          return;
+        }
+        if (!window.matchMedia('(hover: none)').matches) {
+          return;
+        }
+        var $card = $(this).closest('.collection-card');
+        var wasActive = $card.hasClass('is-active');
+        $('#section-address .collection-card').removeClass('is-active');
+        if (!wasActive) {
+          $card.addClass('is-active');
+        }
+      });
+
+      $(document).on('click', function (e) {
+        if (!$(e.target).closest('#section-address .collection-card').length) {
+          $('#section-address .collection-card').removeClass('is-active');
+        }
+      });
+
+      list_address.on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+        var calc = slick.slideCount > 1 ? ((nextSlide) / (slick.slideCount - 1)) * 100 : 0;
+        $('#section-address .progress_address').css('width', calc + '%').attr('aria-valuenow', calc);
+      });
+
       var list_reason = $('[data-slick="reason"]').slick({
         ...optionSlick1,
         arrows: true,
