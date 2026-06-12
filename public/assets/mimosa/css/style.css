@@ -140,6 +140,31 @@ body {
   letter-spacing: 0.02em;
 }
 
+#section-customer-feedback .customer-feedback-card {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  background: #fff;
+}
+
+#section-customer-feedback .customer-feedback-card__link {
+  display: block;
+  overflow: hidden;
+  cursor: zoom-in;
+}
+
+#section-customer-feedback .customer-feedback-card__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  transition: transform 0.35s ease;
+}
+
+#section-customer-feedback .customer-feedback-card:hover .customer-feedback-card__img {
+  transform: scale(1.05);
+}
+
 @media (max-width: 991.98px) {
   :root {
     --floating-btn-bottom: 22px;
