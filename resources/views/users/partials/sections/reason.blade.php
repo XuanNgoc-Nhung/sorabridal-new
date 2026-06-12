@@ -1,54 +1,33 @@
 <section id="section-reason" class="py-4 overflow-hidden" style="background-color: #fdf2f6;">
     <div class="container-xl position-relative">
-        <img class="lazyload position-absolute d-none d-md-block" style="right: 0; top: -70px; width: 250px; max-width: 40%; transform: rotate(26deg);"
+        <img class="lazyload position-absolute d-none d-md-block" style="left: 0; top: -70px; width: 250px; max-width: 40%; transform: rotate(-26deg);"
             data-src="/wp-content/uploads/2023/05/Group.png" alt="">
 
-        <div data-slick="reason" data-aos="fade-up">
-            <div>
-                <p class="section-title">Từ trái tim Sora</p>
-                <div class="row align-items-center g-4">
-                    <div class="col-12 col-md-6">
-                        <img class="lazyload img-fluid rounded w-100"
-                            data-src="https://mimosawedding.vn/wp-content/uploads/2023/06/z4468093140804_a1101df418bb6701eb18db5cf8d13cb0.jpg"
-                            alt="">
-                    </div>
-                    <div class="col-12 col-md-6">
-                        <h2 class="h2 fw-semibold mb-3">Lời nhắn đầu tiên</h2>
-                        <ul class="list-unstyled mb-4 message-list">
-                            <li >
-                                <span>Cam kết chất lượng và tâm huyết: Sora Bridal đặt trọn tâm huyết vào mỗi bộ ảnh và lễ cưới,
-                                    mang đến trải nghiệm hoàn hảo cho khoảnh khắc hạnh phúc của hai bạn.</span>
-                            </li>
-                            <li >
-                                <span>Thế mạnh thương hiệu & hệ sinh thái: Bên cạnh đó,
-                                    Sora Bridal – Tận Tâm, Trách Nhiệm, Phát Triển Sorabridal là một trong những
-                                    thương hiệu chụp ảnh cưới đẹp và lớn hàng đầu tại Hà Nội, sở hữu hệ sinh thái
-                                    gồm 2 thương hiệu phim trường trong ngành cưới, mang đến nhiều tiện ích vượt
-                                    trội như tiết kiệm chi phí, tiết kiệm thời gian và nhiều bối cảnh đẹp
-                                    mắt.</span>
-                            </li>
-                            <li>
-                                <span>Đội ngũ và tinh thần sáng tạo: Với đội ngũ nhân sự
-                                    trẻ trung, năng động, chuyên nghiệp và giàu kinh nghiệm, Sora Bridal luôn sáng
-                                    tạo, nỗ lực không ngừng để hướng đến sự hoàn hảo, phục vụ khách hàng tốt nhất và
-                                    chu đáo.</span>
-                            </li>
-                        </ul>
-                        <p class="mb-0">
-                            <span class="d-block fs-5 fw-bold fst-italic">Đỗ Anh Tuấn</span>
-                            <span class="d-block small text-muted">(CEO Sorabridal)</span>
-                        </p>
-                    </div>
+        <div data-aos="fade-up">
+            <p class="section-title">Vì sao nên chọn Sora Bridal</p>
+            <div class="row align-items-center g-4">
+                <div class="col-12 col-md-6">
+                    <h2 class="h2 fw-semibold mb-3">Những lý do khiến bạn tin tưởng</h2>
+                    <ul class="list-unstyled mb-0 message-list">
+                        <li>
+                            <span>Hệ sinh thái phim trường riêng: Sora Bridal sở hữu 2 thương hiệu phim trường trong ngành cưới,
+                                giúp bạn tiết kiệm thời gian di chuyển, tối ưu chi phí và có nhiều bối cảnh đẹp trong một ngày chụp.</span>
+                        </li>
+                        <li>
+                            <span>Concept đa dạng, phong cách độc bản: Từ studio phong cách Hàn Quốc, concept hoàng gia sang trọng
+                                đến bối cảnh ngoại cảnh lãng mạn — mỗi bộ ảnh đều kể câu chuyện tình yêu riêng của hai bạn.</span>
+                        </li>
+                        <li>
+                            <span>Đội ngũ ekip chuyên nghiệp: Nhiếp ảnh gia, makeup artist và stylist trẻ trung, năng động,
+                                giàu kinh nghiệm, luôn đồng hành tận tâm để mỗi khoảnh khắc đều hoàn hảo nhất.</span>
+                        </li>
+                    </ul>
                 </div>
-            </div>
-        </div>
-
-        <div class="position-absolute top-50 end-0 translate-middle-y d-none d-lg-block">
-            <div id="arrow_reason"></div>
-            <div class="d-flex align-items-end justify-content-center small">
-                <span id="current_feed" class="fs-4 fw-bold text-danger"></span>
-                <span class="mx-1">/</span>
-                <span id="total_feed"></span>
+                <div class="col-12 col-md-6">
+                    <img class="lazyload img-fluid rounded w-100"
+                        data-src="https://mimosawedding.vn/wp-content/uploads/2026/06/mau54-bthu-bantiec-1-1.jpg"
+                        alt="Ảnh cưới Sora Bridal">
+                </div>
             </div>
         </div>
     </div>

@@ -8,6 +8,7 @@
     <div class="d-flex flex-column">
         {{-- @include('users.partials.sections.brand') --}}
         {{-- @include('users.partials.sections.service') --}}
+        @include('users.partials.sections.open_letter')
         @include('users.partials.sections.reason')
         @include('users.partials.sections.collection')
         @include('users.partials.sections.collection-video')
