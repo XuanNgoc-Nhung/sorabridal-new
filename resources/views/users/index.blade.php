@@ -6,8 +6,8 @@
             @include('users.partials.sections.banner')
         </section>
         <div class="home-sections">
-            @include('users.partials.sections.brand')
-            @include('users.partials.sections.service')
+            {{-- @include('users.partials.sections.brand') --}}
+            {{-- @include('users.partials.sections.service') --}}
             @include('users.partials.sections.reason')
             @include('users.partials.sections.collection')
             @include('users.partials.sections.collection-video')

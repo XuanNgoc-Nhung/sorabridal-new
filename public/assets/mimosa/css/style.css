@@ -280,9 +280,10 @@ body {
   transition: background 0.5s ease;
 }
 
-.list_reason article {
-  margin: 40px 0;
-  font-size: 14px;
+.list_reason article li {
+  font-family: "Dancing Script", cursive;
+  font-size: 18px;
+  font-weight: 400;
 }
 .list_reason .title {
   color: var(--color-yellow);
@@ -308,12 +309,32 @@ body {
 }
 .list_reason .item .content {
   flex: 1;
-  padding: 0 5rem;
+  padding: 0 1rem 0 5rem;
+}
+.list_reason .ceo-signature {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+.list_reason .ceo-name {
+  display: block;
+  font-family: var(--font-sub);
+  font-size: 2.75rem;
+  color: var(--color-yellow);
+  line-height: 1.2;
+}
+.list_reason .ceo-title {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: var(--color-dark);
+  opacity: 0.65;
+  letter-spacing: 0.02em;
 }
 
 .homeReason {
   background: var(--bg-theme);
-  padding: 100px 0;
+  padding: 30px 0;
 }
 .homeReason .pattern {
   position: absolute;
@@ -3806,6 +3827,9 @@ form.sent .wpcf7-response-output {
   }
   .list_reason .item .content ul {
     padding: 0;
+  }
+  .list_reason .ceo-name {
+    font-size: 18px;
   }
   .list_reason .item .image img {
     width: 100% !important;
