@@ -20,6 +20,10 @@ $(window).on('load',
       // var des = location.href;
       var $progressBarcol = $('.progress_col');
       var $progressBarcolLabel = $('.slider__label');
+      function setSliderProgress(calc) {
+        $progressBarcol.css('width', calc + '%').attr('aria-valuenow', calc);
+        $progressBarcolLabel.text(calc + '% completed');
+      }
       $('.sub_menu li a').click(function () {
         var cate = $(this).attr('data-cate');
 
@@ -119,7 +123,7 @@ $(window).on('load',
 	
       var windwdmb = $(window).width();
       if (windwdmb > 640) {
-        $('.homeConcept .list_concept').slick({
+        $('[data-slick="concept"]').slick({
           ...optionSlick3,
           slidesToShow: 4,
           arrows: true,
@@ -138,7 +142,7 @@ $(window).on('load',
           //   }
           // ]
         });
-        $('.listFamous').slick({
+        $('[data-slick="famous"]').slick({
           ...optionSlick3,
           slidesToShow: 4,
           arrows: true,
@@ -158,7 +162,7 @@ $(window).on('load',
           // ]
         });
       }else{
-        $('.customer_section-main .mimosa-banner .mimosa-bannerYear').slick({
+        $('#section-customer .mimosa-bannerYear').slick({
           ...optionSlick3,
           slidesToShow: 4,
           slidesToScroll: 4,
@@ -183,8 +187,8 @@ $(window).on('load',
             }
           ]
         });
-       $('.section_customer .mimosa-banner .nav a').click(function(){
-        $('.section_customer .mimosa-banner .nav a').removeClass('active');
+       $('#section-customer .mimosa-bannerYear a').click(function(){
+        $('#section-customer .mimosa-bannerYear a').removeClass('active');
         $(this).addClass('active');
        });
       };
@@ -220,8 +224,8 @@ $(window).on('load',
         autoplaySpeed: 2500,
         fade: true,
       };
-      const tabs_col = $('.homeCollection button[data-bs-toggle="tab"]');
-      const list_col = $('.homeCollection .list_collection');
+      const tabs_col = $('#section-collection button[data-bs-toggle]');
+      const list_col = $('[data-slick="collection"]');
 
 
       const slickOptionsCol = {
@@ -249,12 +253,10 @@ $(window).on('load',
 
       list_col.on('beforeChange', function (event, slick, currentSlide, nextSlide) {
         var calc = ((nextSlide) / (slick.slideCount - 1)) * 100;
-        $progressBarcol.css('background-size', calc + '% 100%').attr('aria-valuenow', calc);
-        $progressBarcolLabel.text(calc + '% completed');
-        // $progressBar.addClass('active');
+        setSliderProgress(calc);
       });
 
-      var list_reason = $('.list_reason').slick({
+      var list_reason = $('[data-slick="reason"]').slick({
         ...optionSlick1,
         arrows: true,
         appendArrows: $('#arrow_reason'),
@@ -273,13 +275,13 @@ $(window).on('load',
         $('#current_feed').text(i);
         $('#total_feed').text(slick.slideCount);
       });
-      $('.list_feed').slick({
+      $('[data-slick="feedback"]').slick({
         ...optionSlick2,
         dots: true,
       });
       //  news
 
-      $('.list_logo').slick({
+      $('[data-slick="partner"]').slick({
         dots: false,
         infinite: false,
         speed: 300,
@@ -305,8 +307,8 @@ $(window).on('load',
           }
         ]
       });
-      const tabsconn = $('.homeConnect button[data-bs-toggle="tab"]');
-      const listconn = $('.homeConnect .list_conn');
+      const tabsconn = $('#section-connect button[data-bs-toggle="pill"]');
+      const listconn = $('#section-connect [data-slick="connect"]');
       // var $progressBar = $('.progress');
       // var $progressBarLabel = $('.slider__label');
       const slickOptionsConn = {
@@ -422,9 +424,7 @@ $(window).on('load',
       });
       $('.news_academy .list_news').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
         var calc = ((nextSlide) / (slick.slideCount - 1)) * 100;
-        $progressBarcol.css('background-size', calc + '% 100%').attr('aria-valuenow', calc);
-        $progressBarcolLabel.text(calc + '% completed');
-        // $progressBar.addClass('active');
+        setSliderProgress(calc);
       });
       $('.family_feed .list_collection').slick({
         rows: 2,

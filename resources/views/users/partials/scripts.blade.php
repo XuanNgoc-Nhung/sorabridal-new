@@ -93,7 +93,7 @@
         var $progressBarcol = $('.progress_col');
         var $progressBarcolLabel = $('.slider__label');
         var tabs_news = $('#news_home button[data-bs-toggle="tab"]');
-        var list_news = $('#news_home .list_home_news');
+        var list_news = $('#news_home [data-slick="news"]');
         const slickOptions_news = {
             dots: false,
             infinite: true,
@@ -120,9 +120,8 @@
         });
         list_news.on('beforeChange', function(event, slick, currentSlide, nextSlide) {
             var calc = ((nextSlide) / (slick.slideCount - 1)) * 100;
-            $progressBarcol.css('background-size', calc + '% 100%').attr('aria-valuenow', calc);
+            $progressBarcol.css('width', calc + '%').attr('aria-valuenow', calc);
             $progressBarcolLabel.text(calc + '% completed');
-            // $progressBar.addClass('active');
         });
         //customer
         const btnShow = document.querySelector('.mimosa-bannerRate .tab-pane')

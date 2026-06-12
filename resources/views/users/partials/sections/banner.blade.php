@@ -6,7 +6,7 @@
     ];
 @endphp
 
-<div class="homeBanner section">
+<section id="section-banner" class="w-100 overflow-hidden px-4 pb-4 position-relative">
     <div class="container-fluid px-0">
         <div id="wowslider-container" class="wowslider-banner">
             <div class="ws_images">
@@ -18,6 +18,7 @@
                                     src="{{ $image }}"
                                     alt="Sorabridal banner {{ $index + 1 }}"
                                     id="wows1_{{ $index }}"
+                                    class="w-100"
                                     loading="{{ $index === 0 ? 'eager' : 'lazy' }}"
                                     decoding="async"
                                 >
@@ -39,4 +40,4 @@
             <div class="ws_shadow" aria-hidden="true"></div>
         </div>
     </div>
-</div>
+</section>

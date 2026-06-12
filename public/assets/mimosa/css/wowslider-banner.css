@@ -1,6 +1,6 @@
 /* WOW Slider inspired banner — Sorabridal theme */
 
-.homeBanner {
+#section-banner {
   --banner-height: calc(100vh - 140px);
   --banner-transition: 1.2s;
   padding: 0 30px 30px 30px;
@@ -8,8 +8,8 @@
   height: auto;
 }
 
-.homeBanner::after,
-.homeBanner::before {
+#section-banner::after,
+#section-banner::before {
   content: "";
   position: absolute;
   width: 1px;
@@ -21,11 +21,11 @@
   z-index: 1;
 }
 
-.homeBanner::after {
+#section-banner::after {
   background: #000;
 }
 
-.homeBanner::before {
+#section-banner::before {
   background: #fff;
 }
 
@@ -382,7 +382,7 @@
 }
 
 @media (max-width: 991.98px) {
-  .homeBanner {
+  #section-banner {
     --banner-height: 500px;
     padding: 0 0 30px 0;
   }
