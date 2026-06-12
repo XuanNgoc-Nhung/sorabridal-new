@@ -1,4 +1,4 @@
-<section id="section-reason" class="py-4 overflow-hidden" style="background-color: #fdf2f6;">
+<section id="section-reason" class="py-4 overflow-hidden">
     <div class="container-xl position-relative">
         <img class="lazyload position-absolute d-none d-md-block" style="left: 0; top: -70px; width: 250px; max-width: 40%; transform: rotate(-26deg);"
             data-src="/wp-content/uploads/2023/05/Group.png" alt="">

@@ -1,4 +1,4 @@
-<section id="section-collection-video" class="py-5 overflow-hidden" style="background-color: #fdf2f6;">
+<section id="section-collection-video" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-4 col-lg-8">
             <p class="small text-muted mb-2" data-aos="fade-up">say đắm câu chuyện tình yêu trong</p>

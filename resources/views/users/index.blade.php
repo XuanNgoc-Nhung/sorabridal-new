@@ -5,21 +5,21 @@
         @include('users.partials.sections.banner')
     </div>
 
-    <div class="d-flex flex-column">
+    <div class="d-flex flex-column home-sections">
         {{-- @include('users.partials.sections.brand') --}}
         {{-- @include('users.partials.sections.service') --}}
-        @include('users.partials.sections.open_letter')
-        @include('users.partials.sections.reason')
-        @include('users.partials.sections.collection')
-        @include('users.partials.sections.collection-video')
-        @include('users.partials.sections.collection-tiktok')
-        @include('users.partials.sections.concept')
-        @include('users.partials.sections.address')
-        @include('users.partials.sections.famous')
-        @include('users.partials.sections.customer')
-        @include('users.partials.sections.feedback')
-        @include('users.partials.sections.news')
-        @include('users.partials.sections.partner')
-        @include('users.partials.sections.connect')
+        <div class="section-band">@include('users.partials.sections.open_letter')</div>
+        <div class="section-band">@include('users.partials.sections.reason')</div>
+        <div class="section-band">@include('users.partials.sections.collection')</div>
+        <div class="section-band">@include('users.partials.sections.collection-video')</div>
+        <div class="section-band">@include('users.partials.sections.collection-tiktok')</div>
+        <div class="section-band">@include('users.partials.sections.concept')</div>
+        <div class="section-band">@include('users.partials.sections.address')</div>
+        <div class="section-band">@include('users.partials.sections.famous')</div>
+        <div class="section-band">@include('users.partials.sections.customer')</div>
+        <div class="section-band">@include('users.partials.sections.feedback')</div>
+        <div class="section-band">@include('users.partials.sections.news')</div>
+        <div class="section-band">@include('users.partials.sections.partner')</div>
+        <div class="section-band">@include('users.partials.sections.connect')</div>
     </div>
 @endsection

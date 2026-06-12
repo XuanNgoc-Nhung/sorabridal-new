@@ -9,7 +9,7 @@
     ];
 @endphp
 
-<section id="section-concept" class="py-5 overflow-hidden" style="background-color: #fdf2f6;">
+<section id="section-concept" class="py-5 overflow-hidden">
     <div class="container-xl position-relative">
         <div class="text-center mb-5">
             <img class="lazyload mb-3" style="max-width: 200px;" data-aos="zoom-in" data-src="/wp-content/uploads/2023/05/Group.png" alt="">

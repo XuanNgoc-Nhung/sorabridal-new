@@ -58,6 +58,14 @@ body {
   line-height: 1.3;
 }
 
+.home-sections > .section-band:nth-child(odd) {
+  background-color: #fff;
+}
+
+.home-sections > .section-band:nth-child(even) {
+  background-color: var(--bg-theme);
+}
+
 .message-list li {
   font-family: var(--font-script);
   font-size: var(--message-list-size);
