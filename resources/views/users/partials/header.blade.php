@@ -4,40 +4,14 @@
                 <ul class="d-flex list-unstyled p-0 m-0">
                     <li>
                         <a href="/">Trang chủ</a>
-                        <div class="sub_menu d-flex menu_dress menu_box">
-                            <div class="list d-flex">
-                                <ul class="m-0 p-0 list-unstyled">
-                                    <li class="pb-0 pt-4">
-                                        <a href="/ve-chung-toi/" class="d-flex text-uppercase">
-                                            <div class="name me-0">Giới thiệu Sorabridal</div>
-                                        </a>
-                                    </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="/vay-cuoi-cali/" class="d-flex text-uppercase">
-                                            <div class="name me-0">Thương hiệu Cali Bridal</div>
-                                        </a>
-                                    </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="/su-kien" class="d-flex text-uppercase">
-                                            <div class="name me-0">Sự kiện lớn</div>
-                                        </a>
-                                    </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="/nguoi-noi-tieng" class="d-flex text-uppercase">
-                                            <div class="name me-0">Người nổi tiếng</div>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
                     </li>
                     <li>
                         <a href="/goi-chup-anh-cuoi/">Chụp ảnh cưới</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
-                                    <li class="pb-0 pt-4">
-                                        <a href="goi-chup-gia-dinh/" class="d-flex text-uppercase">
+                                    <li>
+                                        <a href="goi-chup-gia-dinh/" class="d-flex">
                                             <div class="name me-0">Chụp ảnh gia đình</div>
                                         </a>
                                     </li>
@@ -64,20 +38,7 @@
                         <a href="javascript:void(0)">Trang phục</a>
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
-                                <div class="img">
-                                    <img class="lazyload img_menu" data-src="https://mimosawedding.vn/wp-content/uploads/2024/11/hoa-hau-miss-international-2024-thanh-thuy-10.jpg" alt="">
-                                </div>
                                 <ul class="m-0 p-0 list-unstyled">
-                                    <!--                               <li>
-                                 <a href="/vay-cuoi" class="d-flex">
-                                 
-                                    <div class="name">Tất cả albums</div>
-                                 
-                                    <div class="count">116</div>
-                                 
-                                 </a>
-                                 
-                                 </li> -->
                                     <li>
                                         <a href="/vay-cuoi/#487" data-cate="#487" class="d-flex">
                                             <div class="name">Tất cả</div>
@@ -97,18 +58,16 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/trang-phuc-vest/" class="d-flex">Trang phục Vest</a>
+                                        <a href="/trang-phuc-vest/" class="d-flex">
+                                            <div class="name me-0">Trang phục Vest</div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/cali-bridal-brand/" class="d-flex">
+                                            <div class="name me-0">Thương hiệu Cali Bridal</div>
+                                        </a>
                                     </li>
                                 </ul>
-                            </div>
-                            <div class="menu_cali">
-                                <a href="/cali-bridal-brand/">
-                           <span>Thương hiệu Cali Bridal</span>
-                           <i class="fas fa-chevron-right"></i>
-                           </a>
-                                <a href="/cali-bridal-brand/">
-                           <img class="logo lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/Logo-Cali-Bridal-1-1.png" alt="">
-                           </a>
                             </div>
                         </div>
                     </li>
@@ -117,8 +76,8 @@
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
-                                    <li class="pb-0 pt-4">
-                                        <a href="/feedback-khach-hang/" class="d-flex text-uppercase">
+                                    <li>
+                                        <a href="/feedback-khach-hang/" class="d-flex">
                                             <div class="name me-0">Feedback khách hàng</div>
                                         </a>
                                     </li>
@@ -131,8 +90,8 @@
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
-                                    <li class="pb-0 pt-4">
-                                        <a href="/hoc-chup-anh-cuoi/" class="d-flex text-uppercase">
+                                    <li>
+                                        <a href="/hoc-chup-anh-cuoi/" class="d-flex">
                                             <div class="name me-0">Học chụp ảnh cưới</div>
                                         </a>
                                     </li>
@@ -145,29 +104,14 @@
                         <div class="sub_menu d-flex menu_dress">
                             <div class="list d-flex">
                                 <ul class="m-0 p-0 list-unstyled">
-                                    <li class="pb-0 pt-4">
-                                        <a href="/danh-sach-video?id=0" class="d-flex text-uppercase">
+                                    <li>
+                                        <a href="/danh-sach-video?id=0" class="d-flex">
                                             <div class="name me-0">Album video</div>
                                         </a>
                                     </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="/chup-anh-cuoi/" class="d-flex text-uppercase">
+                                    <li>
+                                        <a href="/chup-anh-cuoi/" class="d-flex">
                                             <div class="name me-0">Chụp ảnh cưới</div>
-                                        </a>
-                                    </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="/studio-chup-anh-cuoi-dep-o-ha-noi/" class="d-flex text-uppercase">
-                                            <div class="name me-0">Studio chụp ảnh cưới</div>
-                                        </a>
-                                    </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="/chup-anh-cuoi-phong-cach-han-quoc/" class="d-flex text-uppercase">
-                                            <div class="name me-0">Chụp ảnh cưới Hàn Quốc</div>
-                                        </a>
-                                    </li>
-                                    <li class="pb-0 pt-4">
-                                        <a href="https://thiepcuoi.mimosawedding.vn/" class="d-flex text-uppercase" target="_blank">
-                                            <div class="name me-0">Thiệp cưới online</div>
                                         </a>
                                     </li>
                                 </ul>
@@ -441,16 +385,6 @@
                                         <li>
                                             <a href="/chup-anh-cuoi/" class="d-flex">
                                                 <div class="name">Chụp ảnh cưới</div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/studio-chup-anh-cuoi-dep-o-ha-noi/" class="d-flex">
-                                                <div class="name">Studio chụp ảnh cưới</div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="/chup-anh-cuoi-phong-cach-han-quoc/" class="d-flex">
-                                                <div class="name">Chụp ảnh cưới Hàn Quốc</div>
                                             </a>
                                         </li>
                                     </ul>

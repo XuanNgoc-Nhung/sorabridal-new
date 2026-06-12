@@ -30,11 +30,11 @@
 								<img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/09/doi-ngu-make-up-1-1.jpg" alt="">
 								<div class="social d-flex">
 																		<a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
 																		<a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
 																		<a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
 																	</div>
 							</div>
 							<div class="info">
@@ -47,11 +47,11 @@
                             <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/09/doi-ngu-make-up-3.jpg" alt="">
                             <div class="social d-flex">
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                             </div>
                         </div>
                         <div class="info">
@@ -64,11 +64,11 @@
                             <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/09/doi-ngu-make-up-4.jpg" alt="">
                             <div class="social d-flex">
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                             </div>
                         </div>
                         <div class="info">
@@ -81,9 +81,9 @@
                             <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/09/doi-ngu-make-up-2.jpg" alt="">
                             <div class="social d-flex">
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                                 <a class="icon" href="">
-									<i class="fab fa-facebook-f"></i>									</a>
+									<i class="fa-brands fa-facebook-f"></i>									</a>
                             </div>
                         </div>
                         <div class="info">

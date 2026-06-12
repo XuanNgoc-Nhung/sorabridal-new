@@ -6,7 +6,17 @@ setTimeout(function () {
 $(window).on('load',
   function () {
     jQuery(document).ready(function () {
-		
+
+      $('.main_menu .left ul > li, .main_menu .right ul > li').each(function () {
+        if ($(this).children('.sub_menu').length) {
+          $(this).addClass('haschild');
+          var $link = $(this).children('a').first();
+          if (!$link.find('.menu-dropdown-arrow').length) {
+            $link.append('<i class="fa-solid fa-chevron-down menu-dropdown-arrow" aria-hidden="true"></i>');
+          }
+        }
+      });
+
       // var des = location.href;
       var $progressBarcol = $('.progress_col');
       var $progressBarcolLabel = $('.slider__label');

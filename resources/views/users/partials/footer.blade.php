@@ -60,22 +60,22 @@
                     <div class="title_ft">Follow us</div>
                     <div class="info_col">
                         <a class="item d-flex" style="background:#1066E7" href="https://www.facebook.com/anhvienmimosa">
-                            <div class="icon"><i class="fab fa-facebook-f"></i></div>
+                            <div class="icon"><i class="fa-brands fa-facebook-f"></i></div>
                             <div class="info_sp">
                                 301k lượt thích </div>
                         </a>
                         <a class="item d-flex" style="background:#000000" href="https://www.tiktok.com/@mimosa_wedding6133">
-                            <div class="icon"><i class="fab fa-tiktok"></i></div>
+                            <div class="icon"><i class="fa-brands fa-tiktok"></i></div>
                             <div class="info_sp">
                                 570k Follower </div>
                         </a>
                         <a class="item d-flex" style="background:#890D0D" href="https://www.youtube.com/@MimosaWedding">
-                            <div class="icon"><i class="fab fa-youtube"></i></div>
+                            <div class="icon"><i class="fa-brands fa-youtube"></i></div>
                             <div class="info_sp">
                                 101k subscribe </div>
                         </a>
                         <a class="item d-flex" style="background:#CD486B" href="https://www.instagram.com/mimosa.wedding.studio/">
-                            <div class="icon"><i class="fab fa-instagram"></i></div>
+                            <div class="icon"><i class="fa-brands fa-instagram"></i></div>
                             <div class="info_sp">
                                 8k subscribe </div>
                         </a>
@@ -129,22 +129,31 @@
     </div>
     <div class="cta_page">
         <div class="item">
-            <a target="_blank" href="https://m.me/anhvienmimosa"><img style="width: 20px;" src="/wp-content/uploads/2023/07/1532430.png" /></a>
+            <span class="cta-ripple__ring" aria-hidden="true"></span>
+            <span class="cta-ripple__ring cta-ripple__ring--delay" aria-hidden="true"></span>
+            <a target="_blank" href="https://m.me/anhvienmimosa" aria-label="Messenger">
+                <i class="fa-brands fa-facebook-messenger"></i>
+            </a>
         </div>
         <div class="item">
-            <a target="_blank" href="https://zalo.me/0978886133"><img style="width: 20px;" src="/wp-content/uploads/2023/07/icons9-zalo.svg" /></a>
+            <span class="cta-ripple__ring" aria-hidden="true"></span>
+            <span class="cta-ripple__ring cta-ripple__ring--delay" aria-hidden="true"></span>
+            <a target="_blank" href="https://zalo.me/0978886133" aria-label="Zalo">
+                <img class="cta-icon-img" src="{{ asset('assets/mimosa/images/zalo-icon.svg') }}" alt="" width="20" height="20">
+            </a>
         </div>
-
         <div class="item">
-            <a href="tel:0815.888.333"><i class="fas fa-phone"></i></a>
+            <span class="cta-ripple__ring" aria-hidden="true"></span>
+            <span class="cta-ripple__ring cta-ripple__ring--delay" aria-hidden="true"></span>
+            <a href="tel:0815.888.333" aria-label="Gọi điện">
+                <i class="fa-solid fa-phone"></i>
+            </a>
         </div>
-
     </div>
     <div class="item" id="button_toptop" style="cursor: pointer;">
-        <a>
+        <a aria-label="Lên đầu trang">
            <svg width="16" height="20" viewBox="0 0 16 27" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M8.78913 0.284035C8.38492 -0.0923017 7.75215 -0.069703 7.37582 0.334511L1.24305 6.92156C0.866714 7.32577 0.889313 7.95853 1.29353 8.33487C1.69774 8.71121 2.3305 8.68861 2.70684 8.28439L8.15819 2.42924L14.0133 7.88059C14.4176 8.25693 15.0503 8.23433 15.4267 7.83011C15.803 7.4259 15.7804 6.79314 15.3762 6.4168L8.78913 0.284035ZM9.99936 25.9643L9.10707 0.980238L7.10835 1.05162L8.00064 26.0357L9.99936 25.9643Z" fill="black"/>
 </svg>
         </a>
-    </div>
     </div>
