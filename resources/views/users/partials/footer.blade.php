@@ -32,11 +32,11 @@
                                 <div class="name">(+84)37 785 55 55</div>
                             </div>
                         </a>
-                        <a class="item d-flex text-white" href="tel:(+84)38 576 66 66">
+                        <a class="item d-flex text-white" href="tel:0888063366">
                             <img class="lazyload" data-src="https://mimosawedding.vn/wp-content/uploads/2023/05/call-calling.svg" alt="">
                             <div class="info_sp">
                                 {{-- <span>Hotline</span> --}}
-                                <div class="name">(+84)38 576 66 66</div>
+                                <div class="name">0888 063 366</div>
                             </div>
                         </a>
                     </div>
@@ -87,16 +87,16 @@
     </div>
     <div class="cta_page" id="cta_support">
         <div class="cta_page__panel" id="cta_support_panel" aria-hidden="true">
-            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://m.me/anhvienmimosa">
+            <a class="cta_page__channel" href="tel:0888063366">
                 <span class="cta_page__channel-icon">
-                    <i class="fa-brands fa-facebook-messenger"></i>
+                    <i class="fa-solid fa-phone"></i>
                 </span>
                 <span class="cta_page__channel-text">
-                    <span class="cta_page__channel-title">Messenger</span>
-                    <span class="cta_page__channel-desc">Chat trực tiếp</span>
+                    <span class="cta_page__channel-title">Hotline</span>
+                    <span class="cta_page__channel-desc">0888.063.366</span>
                 </span>
             </a>
-            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://zalo.me/0978886133">
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://zalo.me/0888063366">
                 <span class="cta_page__channel-icon">
                     <img class="cta-icon-img" src="{{ asset('assets/mimosa/images/zalo-icon.svg') }}" alt="" width="20" height="20">
                 </span>
@@ -105,13 +105,49 @@
                     <span class="cta_page__channel-desc">Nhắn tin Zalo 24/7</span>
                 </span>
             </a>
-            <a class="cta_page__channel" href="tel:0815888333">
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://m.me/sorabridal">
                 <span class="cta_page__channel-icon">
-                    <i class="fa-solid fa-phone"></i>
+                    <i class="fa-brands fa-facebook-messenger"></i>
                 </span>
                 <span class="cta_page__channel-text">
-                    <span class="cta_page__channel-title">Hotline</span>
-                    <span class="cta_page__channel-desc">0815.888.333</span>
+                    <span class="cta_page__channel-title">Messenger</span>
+                    <span class="cta_page__channel-desc">Chat trực tiếp</span>
+                </span>
+            </a>
+            <a class="cta_page__channel" href="mailto:anhvienmimosa@gmail.com">
+                <span class="cta_page__channel-icon">
+                    <i class="fa-solid fa-envelope"></i>
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">Email</span>
+                    <span class="cta_page__channel-desc">cskh@sorabridal.com</span>
+                </span>
+            </a>
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://www.facebook.com/sorabridal">
+                <span class="cta_page__channel-icon">
+                    <i class="fa-brands fa-facebook-f"></i>
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">Facebook</span>
+                    <span class="cta_page__channel-desc">Theo dõi Sorabridal</span>
+                </span>
+            </a>
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://www.tiktok.com/@sora.bridal.252">
+                <span class="cta_page__channel-icon">
+                    <i class="fa-brands fa-tiktok"></i>
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">TikTok</span>
+                    <span class="cta_page__channel-desc">Theo dõi Sorabridal</span>
+                </span>
+            </a>
+            <a class="cta_page__channel" target="_blank" rel="noopener" href="https://www.instagram.com/sora.bridal/">
+                <span class="cta_page__channel-icon">
+                    <i class="fa-brands fa-instagram"></i>
+                </span>
+                <span class="cta_page__channel-text">
+                    <span class="cta_page__channel-title">Instagram</span>
+                    <span class="cta_page__channel-desc">Theo dõi Sorabridal</span>
                 </span>
             </a>
         </div>
