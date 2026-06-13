@@ -1,9 +1,11 @@
+@php($aos = aos_for_section('open-letter'))
+
 <section id="section-open-letter" class="py-4 overflow-hidden">
     <div class="container-xl position-relative">
         <img class="lazyload position-absolute d-none d-md-block" style="right: 0; top: -70px; width: 250px; max-width: 40%; transform: rotate(26deg);"
             data-src="/wp-content/uploads/2023/05/Group.png" alt="">
 
-        <div data-slick="reason" data-aos="fade-up">
+        <div data-slick="reason" data-aos="{{ $aos }}">
             <div>
                 <p class="section-title">Từ trái tim Sora</p>
                 <div class="row align-items-center g-4">

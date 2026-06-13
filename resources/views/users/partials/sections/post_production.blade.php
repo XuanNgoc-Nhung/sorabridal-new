@@ -21,18 +21,19 @@ $postProductionItems = [
 'after' => 'https://mimosawedding.vn/wp-content/uploads/2025/12/concept-ngoi-nha-hanh-phuc-51.jpg',
 ],
 ];
+$aos = aos_for_section('post-production');
 @endphp
 
 <section id="section-post-production" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-3 col-lg-8 section-title-wrapper">
-            <p class="section-title" data-aos="fade-up">Trước & Sau chỉnh sửa</p>
-            <p class="section-description" data-aos="fade-up">Không chỉ chụp ảnh – Sora Studio đưa mỗi khoảnh khắc lên
+            <p class="section-title" data-aos="{{ $aos }}">Trước & Sau chỉnh sửa</p>
+            <p class="section-description" data-aos="{{ $aos }}">Không chỉ chụp ảnh – Sora Studio đưa mỗi khoảnh khắc lên
                 tầm cao nghệ thuật. Cùng xem sự khác biệt kỳ diệu sau khi qua tay đội ngũ retouch chuyên nghiệp của Sora
                 dưới đây nhé...</p>
         </div>
 
-        <div class="row g-4" data-aos="fade-up">
+        <div class="row g-4" data-aos="{{ $aos }}">
             @foreach ($postProductionItems as $item)
             <div class="col-12 col-md-6 col-lg-6">
                 <div class="post-production-card h-100">

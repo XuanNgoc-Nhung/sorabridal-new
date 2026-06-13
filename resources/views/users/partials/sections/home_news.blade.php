@@ -43,17 +43,18 @@
             'url' => '/tin-tuc',
         ],
     ];
+    $aos = aos_for_section('home-news');
 @endphp
 
 <section id="section-news" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-4 col-lg-8 section-title-wrapper">
-            <p class="section-title" data-aos="fade-up">Tin tức</p>
-            <p class="section-description" data-aos="fade-up">Cập nhật những thông tin và câu chuyện đẹp từ Sora Bridal</p>
+            <p class="section-title" data-aos="{{ $aos }}">Tin tức</p>
+            <p class="section-description" data-aos="{{ $aos }}">Cập nhật những thông tin và câu chuyện đẹp từ Sora Bridal</p>
         </div>
 
         @if (count($newsItems) > 0)
-            <div data-slick="home-news" data-aos="fade-up">
+            <div data-slick="home-news" data-aos="{{ $aos }}">
                 @foreach ($newsItems as $item)
                     <div class="px-2">
                         <article class="news-card h-100">
@@ -82,7 +83,7 @@
                 </div>
             </div>
 
-            <div class="text-center mt-4" data-aos="fade-up">
+            <div class="text-center mt-4" data-aos="{{ $aos }}">
                 <a href="/tin-tuc" class="news-card__view-all">
                     Xem tất cả bài viết
                     <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

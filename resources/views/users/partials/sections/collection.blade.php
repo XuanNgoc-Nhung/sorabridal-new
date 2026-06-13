@@ -13,15 +13,16 @@
         ['url' => 'https://mimosawedding.vn/bo_suu_tao_album/album-anh-cuoi-pho-co-van-mieu/', 'img' => 'https://mimosawedding.vn/wp-content/uploads/2025/04/concept-xe-co-classic-26.jpg', 'title' => 'Album ảnh cưới Phố cổ – Văn Miếu'],
         ['url' => 'https://mimosawedding.vn/bo_suu_tao_album/album-anh-cuoi-biet-thu-hoa-hong-studio-juhee/', 'img' => 'https://mimosawedding.vn/wp-content/uploads/2025/02/album-biet-thu-studio-vu-huyen-88.jpg', 'title' => 'Album ảnh cưới Biệt Thự Hoa Hồng – Studio Juhee'],
     ];
+    $aos = aos_for_section('collection');
 @endphp
 
 <section id="section-collection" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-4 col-lg-8 section-title-wrapper">
-            <p class="section-title" data-aos="fade-up">Những bộ sưu tập ấn tượng</p>
-            <p class="section-description" data-aos="fade-up">say đắm câu chuyện tình yêu trong</p>
+            <p class="section-title" data-aos="{{ $aos }}">Những bộ sưu tập ấn tượng</p>
+            <p class="section-description" data-aos="{{ $aos }}">say đắm câu chuyện tình yêu trong</p>
         </div>
-        <div class="tab-content" id="pills-tabContent" data-aos="fade-up">
+        <div class="tab-content" id="pills-tabContent" data-aos="{{ $aos }}">
             <div class="tab-pane fade show active" id="pills-videos" role="tabpanel" aria-labelledby="pills-videos-tab">
                 <div data-slick="collection">
                     @foreach ($albums as $album)

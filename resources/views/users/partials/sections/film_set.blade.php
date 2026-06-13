@@ -15,17 +15,18 @@ tình yêu của riêng hai bạn.',
 'role' => 'Hoàng Mai, Hà Nội',
 ],
 ];
+$aos = aos_for_section('film-set');
 @endphp
 
 <section id="section-film-set" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-5 col-lg-8 section-title-wrapper">
-            <p class="section-title" data-aos="fade-up">Hệ sinh thái riêng</p>
-            <p class="section-description" data-aos="fade-up">Phim trường & Concept độc quyền
+            <p class="section-title" data-aos="{{ $aos }}">Hệ sinh thái riêng</p>
+            <p class="section-description" data-aos="{{ $aos }}">Phim trường & Concept độc quyền
             </p>
         </div>
 
-        <div class="row g-4" data-aos="fade-up">
+        <div class="row g-4" data-aos="{{ $aos }}">
             @foreach ($filmSets as $filmSet)
             <div class="col-12 col-md-6">
                 <div class="card border-0 bg-light h-100 text-center p-4">

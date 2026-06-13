@@ -4,17 +4,18 @@
         ->map(fn ($path) => asset('assets/feedback/' . basename($path)))
         ->values()
         ->all();
+    $aos = aos_for_section('customer-feedback');
 @endphp
 
 <section id="section-customer-feedback" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-4 col-lg-8 section-title-wrapper">
-            <p class="section-title" data-aos="fade-up">Phản hồi khách hàng</p>
-            <p class="section-description" data-aos="fade-up">Những chia sẻ chân thành từ các cặp đôi đã tin tưởng Sora Bridal</p>
+            <p class="section-title" data-aos="{{ $aos }}">Phản hồi khách hàng</p>
+            <p class="section-description" data-aos="{{ $aos }}">Những chia sẻ chân thành từ các cặp đôi đã tin tưởng Sora Bridal</p>
         </div>
 
         @if (count($feedbackImages) > 0)
-            <div data-slick="customer-feedback" data-aos="fade-up">
+            <div data-slick="customer-feedback" data-aos="{{ $aos }}">
                 @foreach ($feedbackImages as $index => $image)
                     <div class="px-2">
                         <div class="customer-feedback-card h-100">

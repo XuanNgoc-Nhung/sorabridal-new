@@ -9,15 +9,16 @@
         ['url' => 'https://mimosawedding.vn/vay_cuoi/charmaine-dress/', 'img' => 'https://mimosawedding.vn/wp-content/uploads/2024/11/charmaine-dress-4.jpg', 'name' => 'Charmaine Dress'],
         ['url' => 'https://mimosawedding.vn/vay_cuoi/cali-bridal-look-303/', 'img' => 'https://mimosawedding.vn/wp-content/uploads/2025/06/cali-look-303-2.jpg', 'name' => 'Cali Bridal Look 303'],
     ];
+    $aos = aos_for_section('address');
 @endphp
 
 <section id="section-address" class="py-5 overflow-hidden">
     <div class="container-xl">
         <div class="text-center text-uppercase mx-auto mb-4 col-lg-8 section-title-wrapper">
-            <p class="section-title" data-aos="fade-up">Sorabridal</p>
-            <p class="section-description" data-aos="fade-up">Váy cưới đẹp</p>
+            <p class="section-title" data-aos="{{ $aos }}">Sorabridal</p>
+            <p class="section-description" data-aos="{{ $aos }}">Váy cưới đẹp</p>
         </div>
-        <div class="tab-content" data-aos="fade-up">
+        <div class="tab-content" data-aos="{{ $aos }}">
             <div class="tab-pane fade show active">
                 <div data-slick="address">
                     @foreach ($dresses as $dress)
